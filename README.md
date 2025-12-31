@@ -1,8 +1,3 @@
-![GitHub stars](https://img.shields.io/github/stars/aditikhare007/ai-research-junction?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/aditikhare007/ai-research-junction)
-![Repo Size](https://img.shields.io/github/repo-size/aditikhare007/ai-research-junction)
-![Topics](https://img.shields.io/github/topics/aditikhare007/ai-research-junction)
-
 # AI Research Junction – Curated Generative AI, LLM & Agentic AI Research
 ### Curated AI Research Papers • Production-Grade Insights • Research → Real-World Systems
 
