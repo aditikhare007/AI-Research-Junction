@@ -187,7 +187,7 @@ A month-wise collection of **high-impact AI research papers**, including:
 
 ---
 
-##  ⭐ This repository complements my ongoing AI research newsletter and curated insights. ⭐
+⭐ This repository complements my ongoing AI research newsletter and curated insights.
 
 ---
 
