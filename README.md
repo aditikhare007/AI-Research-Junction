@@ -1,143 +1,44 @@
 # AI Research Junction – Curated Generative AI, LLM & Agentic AI Research
-### Curated Research Papers • Production-Grade GenAI • AWS Cloud Architecture Insights
 
-👋 Hi, I’m **Aditi Khare** — AI researcher, builder, and open-source contributor.
+## 👩‍💻 Author
 
-**AI Research Junction** is a curated, continuously updated collection of **high-impact AI research papers**, paired with **production-grade Generative AI system design** and **cloud architecture insights (AWS-first reference)**.
+**Aditi Khare — AI Product & Research Leader**  
+Writing on AI research, product thinking, and system architecture
 
-This repository is built for readers who want to:
-- stay current with **AI research**, and  
-- understand how ideas translate into **real, scalable systems**
-
-> 🚀 *Read less. Understand more. Build better AI.*
-
-⭐ If this repository helps you stay current with AI research and system design, consider starring it.
-
----
-
-## Why Star This AI Research Repository?
-If you care about:
-- 🔬 Cutting-edge AI research (LLMs, GenAI, Agents, CV, Quantum AI)
-- 🏗️ Production-grade Generative AI systems
-- ⚙️ Inference efficiency, cost, reliability & safety
-- ☁️ AWS-based cloud-native AI architectures
-- 📚 Signal-over-noise curation you’ll return to
-
-This repository complements my ongoing **AI research newsletter and curated insights**.
-
----
-
-## About the Author
-
-**Aditi Khare**
-
-- AI Researcher & Open-Source Contributor  
-- Enterprise AI Leader — Product, Infrastructure & AI Architecture  
-- Principal ML Scientist | AI Product Owner & Architect  
-- AWS & AI Research Expert | Author  
+🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
+🔗 **GitHub Repository:** [Github](https://github.com/aditikhare007/AI-Research-Junction)  
+🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/AditiShashiKhare)  
+💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)
 
 **Research Interests**  
-🔷 Generative AI · 🔷 Agentic AI · 🔷 Computer Vision · 🔷 Quantum AI  
+🔷 Generative AI · 🔷 Agentic AI 
 
----
+## 📚 Curated AI Research Papers (2024–2026)
 
-## What Makes This Repo Different
+### MARCH 2026
 
-Most repositories list papers.  
-**AI Research Junction** focuses on **judgment, context, and systems thinking**.
+| Paper                                                           | Focus                                                  | Link                                                                 | Category      |
+| --------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------- | ------------- |
+| Multi-Sourced Multi-Agent Evidence Retrieval for Fact-Checking  | Multi-agent reasoning + retrieval pipelines            | [https://arxiv.org/abs/2603.00267](https://arxiv.org/abs/2603.00267) | Agentic AI    |
+| TraderBench: Robustness of AI Agents in Adversarial Markets     | Evaluating agent robustness in real-world environments | [https://arxiv.org/abs/2603.00285](https://arxiv.org/abs/2603.00285) | Agentic AI    |
+| DIG: Scaling Agent Collaboration via Explainable Decision Paths | Multi-agent coordination + explainability              | [https://arxiv.org/abs/2603.00309](https://arxiv.org/abs/2603.00309) | Agentic AI    |
+| ARC-AGI-3 Benchmark                                             | Benchmark for general agentic intelligence             | [https://arxiv.org/abs/2603.24621](https://arxiv.org/abs/2603.24621) | Agentic AI    |
+| Generative AI for Quantum Circuits & Code                       | GenAI for program synthesis + evaluation gaps          | [https://arxiv.org/abs/2603.16216](https://arxiv.org/abs/2603.16216) | Generative AI |
+| Attack & Defense Landscape of Agentic AI (Survey)               | Security risks, threats, guardrails in agents          | [https://arxiv.org/abs/2603.11088](https://arxiv.org/abs/2603.11088) | Agentic AI    |
 
-Each paper or resource is curated with attention to:
-- 🧠 Core research contribution  
-- 🔁 Practical relevance  
-- ⚙️ Inference & deployment implications  
-- 🧪 Evaluation, robustness & failure modes  
-- 🚧 Where research breaks in real systems  
+### FEB 2026
+| Paper                                                 | Focus                                                            | Link                                                                 | Category   |
+| ----------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- | ---------- |
+| The Auton Agentic AI Framework                        | Standardized architecture for agent systems (memory, MCP, POMDP) | [https://arxiv.org/abs/2602.23720](https://arxiv.org/abs/2602.23720) | Agentic AI |
+| Supporting Software Engineering Tasks with Agentic AI | Multi-agent systems for coding, retrieval & QA                   | [https://arxiv.org/abs/2602.04726](https://arxiv.org/abs/2602.04726) | Agentic AI |
+| The 2025 AI Agent Index                               | Benchmarking deployed agentic systems & safety                   | [https://arxiv.org/abs/2602.17753](https://arxiv.org/abs/2602.17753) | Agentic AI |
 
----
-
-## 🏗️ Production-Grade Generative AI Systems
-
-### Core GenAI Building Blocks
-- Prompt design for reliability & consistency  
-- Retrieval-Augmented Generation (RAG) architectures  
-- Agentic workflows & tool orchestration  
-- Memory, context windows & long-horizon reasoning  
-- Evaluation, guardrails & safety layers  
-- Cost-aware inference & model routing  
-
----
-
-## ☁️ AWS Architecture for Production AI Systems (With Links)
-
-This repository uses **AWS as a reference architecture** for scalable, secure, production-grade AI systems.
-
----
-
-### 🧱 Core AWS Architecture Principles
-- Separation of inference, retrieval & orchestration layers  
-- Stateless model serving with scalable backends  
-- IAM-first security & least-privilege access  
-- Observability by default (metrics, logs, traces)  
-- Cost controls, quotas & graceful degradation  
-
-📘 **AWS Well-Architected Framework (AI/ML)**
-- https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html  
-- https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/welcome.html  
-
----
-
-### ⚙️ Compute & Orchestration
-- **Amazon EKS** – Kubernetes for model serving & agents  
-  https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html  
-- **Amazon ECS / Fargate** – Managed container inference  
-  https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html  
-- **AWS Lambda** – Lightweight orchestration & glue logic  
-  https://docs.aws.amazon.com/lambda/latest/dg/welcome.html  
-
----
-
-### 🤖 AI & ML Services
-- **Amazon SageMaker** – Training, inference & pipelines  
-  https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html  
-- **Amazon Bedrock** – Managed foundation models (GenAI)  
-  https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html  
-- **AWS Step Functions** – Agent & workflow orchestration  
-  https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html  
-
----
-
-### 📦 Data, Retrieval & Memory
-- **Amazon S3** – Feature, document & dataset storage  
-  https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html  
-- **Amazon OpenSearch Service** – Vector & hybrid search  
-  https://docs.aws.amazon.com/opensearch-service/latest/developerguide/what-is.html  
-- **Amazon DynamoDB** – Session state & agent memory  
-  https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html  
-
----
-
-### 🔍 Observability & Security
-- **Amazon CloudWatch** – Metrics, logs & alarms  
-  https://docs.aws.amazon.com/cloudwatch/index.html  
-- **AWS IAM** – Identity & access management  
-  https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html  
-- **AWS KMS** – Encryption & key management  
-  https://docs.aws.amazon.com/kms/latest/developerguide/overview.html  
-
----
-
-### 🧠 Reference GenAI Architecture Patterns
-- RAG pipelines with decoupled retrieval & inference  
-- Agent-based systems using Step Functions + tools  
-- Async inference for latency-sensitive paths  
-- Batch + real-time hybrid pipelines  
-- Multi-model routing & fallback strategies  
-
-> *Strong GenAI systems are designed, not improvised.*
-
----
-
-## 📚 Curated AI Research Papers (2024–2025)
+### JAN 2026 
+| Paper                                                                                          | Focus                                           | Link                                                                 | Category   |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------- | ---------- |
+| Toward Agentic AI: Task-Oriented Communication for Hierarchical Planning of Long-Horizon Tasks | Hierarchical planning & communication in agents | [https://arxiv.org/abs/2601.13685](https://arxiv.org/abs/2601.13685) | Agentic AI |
+| Generative Intent Prediction Agentic AI for Edge Orchestration                                 | Generative intent modeling + proactive agents   | [https://arxiv.org/abs/2601.13694](https://arxiv.org/abs/2601.13694) | Agentic AI |
+| The Path Ahead for Agentic AI: Challenges and Opportunities                                    | Evolution from GenAI → autonomous agents        | [https://arxiv.org/abs/2601.02749](https://arxiv.org/abs/2601.02749) | Agentic AI |
 
 ### Dec 2025
 | Paper | Focus | Link | Category |
