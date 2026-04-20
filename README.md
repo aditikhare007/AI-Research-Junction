@@ -1,19 +1,54 @@
-# AI Research Junction – Curated Generative AI, LLM & Agentic AI Research
+# 🚀 AI Research Junction  
+### Curated Generative AI, LLM & Agentic AI Systems — Research → Production Intelligence  
 
-## 👩‍💻 Author
+---
 
-**Aditi Khare — AI Product & Research Leader**  
-Writing on AI research, product thinking, and system architecture
+## 👩‍💻 Aditi Khare  
 
-🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
-🔗 **GitHub Repository:** [Github](https://github.com/aditikhare007/AI-Research-Junction)  
-🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/AditiShashiKhare)  
-💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)
+### **Enterprise AI Product, Platform & Applied Research Leader**  
+Building and scaling **production-grade AI systems globally** — from 0→1 to enterprise adoption.  
 
-**Research Interests**  
-🔷 Generative AI · 🔷 Agentic AI 
+🌐 Website: https://aditikhare.com  
+🔗 GitHub: https://github.com/aditikhare007  
+🤗 Hugging Face: https://huggingface.co/AditiShashiKhare  
+💼 LinkedIn: https://www.linkedin.com/in/aditikhare  
 
-## 📚 Curated AI Research Papers (2024–2026)
+---
+
+## 🧠 What This Repository Is  
+
+AI Research Junction is a **curated intelligence layer for modern AI systems** — focused on translating cutting-edge research into **practical, production-relevant insights**.  
+
+It is designed for:
+- AI engineers building real systems  
+- product leaders evaluating AI capabilities  
+- researchers tracking emerging system patterns  
+
+---
+
+## ⚙️ What You’ll Find  
+
+- Curated **high-signal research papers (2024–2026)**  
+- Focus on **Generative AI, LLMs, and Agentic Systems**  
+- Insights aligned to **real-world system design and deployment**  
+- Research mapped to **practical use cases and architectures**  
+
+---
+
+## 📚 Research Coverage  
+
+### 🔷 Core Domains  
+- Generative AI  
+- Agentic AI  
+- LLM Systems & Architectures  
+- AI Evaluation & Safety  
+- Retrieval & Reasoning Systems  
+
+---
+
+## 📅 Curated AI Research Papers (2024–2026)
+
+> High-signal papers organized by timeline and system relevance  
 
 ### MARCH 2026
 
@@ -112,12 +147,22 @@ Writing on AI research, product thinking, and system architecture
 
 ---
 
-## How to Use This Repository
-- Track AI research trends  
-- Discover models worth experimenting with  
-- Understand trade-offs before building  
-- Reference system & architecture decisions  
+## 🧭 How to Use This Repository  
+
+- Track **emerging AI system trends**  
+- Identify **high-impact papers worth exploring**  
+- Map research to **real-world system design decisions**  
+- Stay current with **agentic + generative AI evolution**  
 
 ---
 
-⭐ If this repository is useful, consider starring it to keep it on your radar and support my ongoing research and curation.
+## 🧠 Perspective  
+
+This repository reflects a core belief:  
+
+> AI value is unlocked not just through models —  
+> but through **systems that make those models usable, reliable, and scalable**  
+
+---
+
+## ⭐ If this repository is valuable, consider starring it to support continued curation of high-signal AI research and advancement of production-grade AI systems.
