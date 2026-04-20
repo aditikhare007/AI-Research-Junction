@@ -13,6 +13,9 @@ Building and scaling **production-grade AI systems globally** — from 0→1 to 
 🤗 Hugging Face: https://huggingface.co/AditiShashiKhare  
 💼 LinkedIn: https://www.linkedin.com/in/aditikhare  
 
+[![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/newsletters/ai-research-junction-7152631955203739649/)  
+[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@airesearchjunctionaditishashi)  
+
 ---
 
 ## 🧠 What This Repository Is  
@@ -165,5 +168,5 @@ This repository reflects a core belief:
 
 ---
 
-## ⭐ 
+## ⭐ Support
 If this repository is valuable, consider starring it to support continued curation of high-signal AI research and advancement of production-grade AI systems.
