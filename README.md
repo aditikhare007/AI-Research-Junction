@@ -27,7 +27,7 @@ Building and scaling **production-grade AI systems globally** — from 0→1 to 
 AI Research Junction is a **curated intelligence layer for modern AI systems** — focused on translating cutting-edge research into **practical, production-relevant insights**.  
 
 It is designed for:
-- AI engineers building real systems  
+- AI engineers building production systems  
 - product leaders evaluating AI capabilities  
 - researchers tracking emerging system patterns  
 
