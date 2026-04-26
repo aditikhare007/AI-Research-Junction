@@ -57,6 +57,16 @@ It is designed for:
 
 > High-signal papers organized by timeline and system relevance  
 
+### APRIL 2026
+
+| Paper                                                  | Category       | Focus                                                                                 | Link                                                                                                                                                                               |
+| ------------------------------------------------------ | -------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Meta’s “Musk-Style” Autonomous Agent Infrastructure    | Agentic AI     | Large-scale agent orchestration, real-world autonomy loops, and control-plane systems | [https://arxiv.org/abs/2604.11623](https://arxiv.org/abs/2604.11623)                                                                                                                 |
+| Claude Opus 4.7: Agentic Explainability at Scale       | Responsible AI | Interpretable reasoning, alignment, and decision transparency in multi-agent systems  | [https://arxiv.org/abs/2604.14984](https://arxiv.org/abs/2604.14984)                                                                                                                 |
+| GPT-5.5: Reproducible Evaluation of Agentic AI Systems | Agentic AI     | Thought–Action–Result (TAR) loops, tool use, and evaluation of long-horizon agents    | [https://arxiv.org/abs/2604.01437](https://arxiv.org/abs/2604.01437)                                                                                                                 |
+| DeepSeek V4: AI Agents Leak Owner Data at Scale        | AI Safety      | Privacy leakage, behavioral transfer, and risks in deployed agent systems             | [https://ppc.land/ai-agents-leak-owner-data-at-scale-study-finds-and-it-is-not-by-design/](https://ppc.land/ai-agents-leak-owner-data-at-scale-study-finds-and-it-is-not-by-design/) |
+
+
 ### MARCH 2026
 
 | Paper                                                           | Focus                                                  | Link                                                                 | Category      |
