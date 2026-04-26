@@ -64,7 +64,7 @@ It is designed for:
 | Meta’s “Musk-Style” Autonomous Agent Infrastructure    | Large-scale agent orchestration, real-world autonomy loops, and control-plane systems | https://arxiv.org/abs/2604.11623                                     | Agentic AI     |
 | Claude Opus 4.7: Agentic Explainability at Scale       | Interpretable reasoning, alignment, and decision transparency in multi-agent systems  | https://www.anthropic.com/news/claude-opus-4-7                       | Responsible AI |
 | GPT-5.5: Reproducible Evaluation of Agentic AI Systems | Thought–Action–Result (TAR) loops, tool use, and evaluation of long-horizon agents    | https://openai.com/index/introducing-gpt-5-5/                        | Agentic AI     |
-| DeepSeek V4: AI Agents Leak Owner Data at Scale        | Privacy leakage, behavioral transfer, and risks in deployed agent systems             | https://www.deepseek.com/en                                          | AI Safety      |
+| DeepSeek V4      | Privacy leakage, behavioral transfer, and risks in deployed agent systems             | https://www.deepseek.com/en                                          | Agentic AI     |
 
 
 ### MARCH 2026
