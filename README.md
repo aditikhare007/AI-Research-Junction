@@ -18,7 +18,7 @@ Building and scaling **production-grade AI systems globally** — from 0→1 to 
 ---
 
 [![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/newsletters/ai-research-junction-7152631955203739649/)  
-[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@airesearchjunctionaditishashi)  
+[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://aditishashikhare.substack.com/)  
 
 ---
 
