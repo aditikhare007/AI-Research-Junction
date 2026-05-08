@@ -61,6 +61,8 @@ It is designed for:
 
 | Paper | Focus | Link | Category |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------|
+| AI Co-Mathematician: Accelerating Mathematicians with Agentic AI | Frontier agentic reasoning system designed to assist mathematical discovery, theorem exploration, and advanced collaborative problem solving between humans and AI agents | https://www.microsoft.com/en-us/research/publication/ai-co-mathematician/ | Agentic AI |
+| An Agentic Multi-Agent Architecture for Cybersecurity Risk Management | Enterprise-grade multi-agent AI architecture enabling autonomous cybersecurity risk analysis, orchestration, monitoring, and adaptive security decision making | https://www.microsoft.com/en-us/research/publication/an-agentic-multi-agent-architecture-for-cybersecurity-risk-management/ | Cybersecurity + Agentic AI |
 | NVIDIA Nemotron 3 Nano Omni — Open Multimodal Intelligence | Compact multimodal foundation model integrating text, vision, and speech for efficient enterprise-grade reasoning and agentic AI workloads | https://arxiv.org/abs/2604.10724 | Multimodal AI |
 | Recursive Multi-Agent Systems (RecursiveMAS) | Recursive agent collaboration framework enabling iterative reasoning, scalable coordination, and deeper multi-agent problem solving | https://arxiv.org/abs/2604.25917 | Agentic AI |
 
