@@ -57,6 +57,14 @@ It is designed for:
 
 > High-signal papers organized by timeline and system relevance  
 
+### MAY 2026
+
+| Paper | Focus | Link | Category |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------|
+| NVIDIA Nemotron 3 Nano Omni — Open Multimodal Intelligence | Compact multimodal foundation model integrating text, vision, and speech for efficient enterprise-grade reasoning and agentic AI workloads | https://arxiv.org/abs/2604.10724 | Multimodal AI |
+| Recursive Multi-Agent Systems (RecursiveMAS) | Recursive agent collaboration framework enabling iterative reasoning, scalable coordination, and deeper multi-agent problem solving | https://arxiv.org/abs/2604.25917 | Agentic AI |
+
+
 ### APRIL 2026
 
 | Paper                                                  | Focus                                                                                 | Link                                                                 | Category       |
