@@ -59,6 +59,13 @@ It is designed for:
 
 ### MAY 2026
 
+| Topic | Focus | Link | Category |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------|
+| Claude Platform on AWS | Anthropic’s Claude platform integrated with AWS infrastructure, enabling enterprise-scale AI deployment, model access, and cloud-native AI workflows | https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/ | Enterprise AI Infrastructure |
+| Claude Platform on AWS (Claude Blog) | Anthropic’s overview of Claude Platform on AWS, focused on secure enterprise AI adoption, scalability, and operational deployment capabilities | https://claude.com/blog/claude-platform-on-aws | Enterprise AI |
+| Agent View in Claude Code | Real-time visibility and monitoring interface for Claude Code agents, designed to improve developer collaboration, transparency, and agent workflow management | https://claude.com/blog/agent-view-in-claude-code | AI Coding Agents |
+| Interaction Models: A Scalable Approach to Human-AI Collaboration | Thinking Machines’ real-time multimodal interaction architecture enabling continuous human-AI collaboration across audio, video, and text | https://thinkingmachines.ai/blog/interaction-models/ | Human-AI Interaction |
+
 | Paper | Focus | Link | Category |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------|
 | AI Co-Mathematician: Accelerating Mathematicians with Agentic AI | Frontier agentic reasoning system designed to assist mathematical discovery, theorem exploration, and advanced collaborative problem solving between humans and AI agents | https://arxiv.org/pdf/2605.06651 | Agentic AI |
