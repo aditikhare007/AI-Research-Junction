@@ -1,1 +1,56 @@
-
+[
+  {
+    "title": "Continuous Latent Diffusion Language Model (Cola DLM)",
+    "summary": "Hierarchical latent diffusion language model separating global semantic planning from local text generation, enabling scalable non-autoregressive language generation and future multimodal AI pathways.",
+    "category": "Latent Diffusion LLMs + Non-Autoregressive AI",
+    "link": "https://arxiv.org/abs/2605.06548"
+  },
+  {
+    "title": "MDASH: Multi-Agent AI Security Framework by Microsoft",
+    "summary": "Enterprise-scale multi-agent cybersecurity framework orchestrating specialized AI agents for vulnerability discovery, exploit validation, and adaptive security remediation workflows.",
+    "category": "Agentic AI Security + Multi-Agent Systems",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/"
+  },
+  {
+    "title": "Auto-Scientist by Adoption AI",
+    "summary": "Autonomous AI research system automating experimentation, hypothesis testing, model training optimization, and iterative scientific workflows for accelerated AI development.",
+    "category": "AI Research Automation + Agentic AI",
+    "link": "https://www.adaptionlabs.ai/blog/autoscientist"
+  },
+  {
+    "title": "AAFLOW: Scalable Patterns for Agentic AI Workflows",
+    "summary": "Scalable orchestration framework for coordinating complex enterprise-scale multi-agent AI workflows and intelligent agent collaboration systems.",
+    "category": "Agentic AI Workflows",
+    "link": "https://arxiv.org/pdf/2605.02162v1"
+  },
+  {
+    "title": "Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents",
+    "summary": "Reinforcement-driven framework enabling AI agents to dynamically improve reasoning, tool usage, and adaptive decision-making during inference execution.",
+    "category": "Reinforced Agents + Tool-Using AI",
+    "link": "https://arxiv.org/pdf/2604.27233"
+  },
+  {
+    "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+    "summary": "Advanced collaborative reasoning system designed to support theorem discovery, mathematical exploration, and human-AI co-problem-solving workflows.",
+    "category": "Agentic AI",
+    "link": "https://arxiv.org/pdf/2605.06651"
+  },
+  {
+    "title": "An Agentic Multi-Agent Architecture for Cybersecurity Risk Management",
+    "summary": "Enterprise-grade multi-agent AI architecture for autonomous cybersecurity monitoring, orchestration, adaptive risk analysis, and intelligent security decision-making.",
+    "category": "Cybersecurity + Agentic AI",
+    "link": "https://arxiv.org/abs/2603.20131"
+  },
+  {
+    "title": "NVIDIA Nemotron 3 Nano Omni — Open Multimodal Intelligence",
+    "summary": "Compact multimodal foundation model integrating text, vision, and speech capabilities for efficient enterprise AI reasoning and agentic workloads.",
+    "category": "Multimodal AI",
+    "link": "https://arxiv.org/abs/2604.10724"
+  },
+  {
+    "title": "Recursive Multi-Agent Systems (RecursiveMAS)",
+    "summary": "Recursive multi-agent collaboration framework enabling iterative reasoning, scalable coordination, and deeper agentic problem-solving capabilities.",
+    "category": "Agentic AI",
+    "link": "https://arxiv.org/abs/2604.25917"
+  }
+]
