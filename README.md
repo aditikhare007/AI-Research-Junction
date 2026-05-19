@@ -59,6 +59,12 @@ It is designed for:
 
 ### MAY 2026
 
+| Paper                                                    | Focus                                                                                                                                                                                                                                             | Link                                                                                                                | Category                                           |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Autonomy and Agency in Agentic AI                        | Enterprise framework for balancing autonomy, agency, governance, oversight, reversibility, and compliance in regulated Agentic AI systems through architectural control tactics such as checkpoints, escalation, tool fencing, and staged writes  | [Autonomy and Agency in Agentic AI](https://arxiv.org/pdf/2605.12105?utm_source=chatgpt.com)                        | Agentic AI Governance + Enterprise AI Architecture |
+| MATRA: Modeling the Attack Surface of Agentic AI Systems | Architecture-driven threat modeling framework for Agentic AI systems that maps prompt injection, tool misuse, hallucinations, and autonomous execution risks into deployment-specific enterprise security exposures using the OpenClaw case study | [MATRA: Modeling the Attack Surface of Agentic AI Systems](https://arxiv.org/pdf/2605.10763?utm_source=chatgpt.com) | Agentic AI Security + Threat Modeling              |
+
+
 | Topic | Focus | Link | Category |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------|
 | Claude Platform on AWS | Anthropic’s Claude platform integrated with AWS infrastructure, enabling enterprise-scale AI deployment, model access, and cloud-native AI workflows | https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/ | Enterprise AI Infrastructure |
