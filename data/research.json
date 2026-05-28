@@ -1,56 +1,56 @@
 [
   {
-    "title": "Continuous Latent Diffusion Language Model (Cola DLM)",
-    "summary": "Hierarchical latent diffusion language model separating global semantic planning from local text generation, enabling scalable non-autoregressive language generation and future multimodal AI pathways.",
-    "category": "Latent Diffusion LLMs + Non-Autoregressive AI",
-    "link": "https://arxiv.org/abs/2605.06548"
+    "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+    "summary": "Microsoft Research framework for optimizing, governing, and evolving reusable AI agent skills through execution feedback, strategic skill selection, adaptive orchestration, and autonomous capability refinement across enterprise multi-agent systems.",
+    "category": "Self-Evolving Agent Skills + Enterprise Agentic Optimization",
+    "link": "https://github.com/microsoft/SkillOpt"
   },
   {
-    "title": "MDASH: Multi-Agent AI Security Framework by Microsoft",
-    "summary": "Enterprise-scale multi-agent cybersecurity framework orchestrating specialized AI agents for vulnerability discovery, exploit validation, and adaptive security remediation workflows.",
-    "category": "Agentic AI Security + Multi-Agent Systems",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/"
+    "title": "Gemini Spark — Google’s 24/7 Personal AI Agent",
+    "summary": "Persistent autonomous AI agent framework designed to operate continuously across digital workflows, enabling proactive task execution, background orchestration, cloud-based persistence, and human-supervised personal AI assistance across Workspace and connected applications.",
+    "category": "Persistent AI Agents + Consumer Agentic AI Infrastructure",
+    "link": "https://gemini.google/overview/agent/spark/"
   },
   {
-    "title": "Auto-Scientist by Adoption AI",
-    "summary": "Autonomous AI research system automating experimentation, hypothesis testing, model training optimization, and iterative scientific workflows for accelerated AI development.",
-    "category": "AI Research Automation + Agentic AI",
-    "link": "https://www.adaptionlabs.ai/blog/autoscientist"
+    "title": "Macro Evals for Agentic Systems",
+    "summary": "System-level evaluation framework for multi-agent AI systems that analyzes orchestration behavior, specialist routing, workflow failures, handoffs, review escalation patterns, and recurring operational risks across large populations of agent traces.",
+    "category": "Agentic AI Evaluation + Multi-Agent Observability",
+    "link": "https://github.com/openai/macro-evals"
   },
   {
-    "title": "AAFLOW: Scalable Patterns for Agentic AI Workflows",
-    "summary": "Scalable orchestration framework for coordinating complex enterprise-scale multi-agent AI workflows and intelligent agent collaboration systems.",
-    "category": "Agentic AI Workflows",
-    "link": "https://arxiv.org/pdf/2605.02162v1"
+    "title": "GIM: Evaluating Models via Tasks that Integrate Multiple Cognitive Domains",
+    "summary": "Cognitive evaluation framework for frontier AI systems that measures integrated reasoning, constraint handling, state tracking, epistemic vigilance, and operational decision-making through multi-domain grounded tasks and IRT-calibrated benchmark scoring.",
+    "category": "Frontier AI Evaluation + Cognitive Benchmarking",
+    "link": "https://arxiv.org/abs/2605.14358"
   },
   {
-    "title": "Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents",
-    "summary": "Reinforcement-driven framework enabling AI agents to dynamically improve reasoning, tool usage, and adaptive decision-making during inference execution.",
-    "category": "Reinforced Agents + Tool-Using AI",
-    "link": "https://arxiv.org/pdf/2604.27233"
+    "title": "AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems",
+    "summary": "Coordination-policy substrate for orchestrating multi-agent systems through structured interaction governance, execution policies, collaborative reasoning, and scalable autonomous agent coordination frameworks.",
+    "category": "Multi-Agent Coordination Infrastructure + Agent Governance Frameworks",
+    "link": "https://github.com/AgensFlow/AgensFlow"
   },
   {
-    "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
-    "summary": "Advanced collaborative reasoning system designed to support theorem discovery, mathematical exploration, and human-AI co-problem-solving workflows.",
-    "category": "Agentic AI",
-    "link": "https://arxiv.org/pdf/2605.06651"
+    "title": "MATRA: Modeling the Attack Surface of Agentic AI Systems",
+    "summary": "Architecture-driven threat modeling framework for Agentic AI systems that maps prompt injection, tool misuse, hallucinations, and autonomous execution risks into deployment-specific enterprise security exposures using the OpenClaw case study.",
+    "category": "Agentic AI Security + Threat Modeling",
+    "link": "https://arxiv.org/abs/2605.17406"
   },
   {
-    "title": "An Agentic Multi-Agent Architecture for Cybersecurity Risk Management",
-    "summary": "Enterprise-grade multi-agent AI architecture for autonomous cybersecurity monitoring, orchestration, adaptive risk analysis, and intelligent security decision-making.",
-    "category": "Cybersecurity + Agentic AI",
-    "link": "https://arxiv.org/abs/2603.20131"
+    "title": "Autonomy and Agency in Agentic AI",
+    "summary": "Enterprise framework for balancing autonomy, agency, governance, oversight, reversibility, and compliance in regulated Agentic AI systems through architectural control tactics such as checkpoints, escalation, tool fencing, and staged writes.",
+    "category": "Agentic AI Governance + Enterprise AI Architecture",
+    "link": "https://arxiv.org/abs/2605.16133"
   },
   {
-    "title": "NVIDIA Nemotron 3 Nano Omni — Open Multimodal Intelligence",
-    "summary": "Compact multimodal foundation model integrating text, vision, and speech capabilities for efficient enterprise AI reasoning and agentic workloads.",
-    "category": "Multimodal AI",
-    "link": "https://arxiv.org/abs/2604.10724"
+    "title": "TurboVec — Rust-Based Vector Index Built on TurboQuant",
+    "summary": "High-performance vector indexing engine built in Rust with Python bindings, leveraging TurboQuant for compressed vector storage, efficient ANN retrieval, and low-latency semantic search infrastructure for AI-native applications.",
+    "category": "Vector Infrastructure + AI Retrieval Systems",
+    "link": "https://github.com/turbopuffer/turbovec"
   },
   {
-    "title": "Recursive Multi-Agent Systems (RecursiveMAS)",
-    "summary": "Recursive multi-agent collaboration framework enabling iterative reasoning, scalable coordination, and deeper agentic problem-solving capabilities.",
-    "category": "Agentic AI",
-    "link": "https://arxiv.org/abs/2604.25917"
+    "title": "Claude Platform on AWS",
+    "summary": "Anthropic’s Claude platform integrated with AWS infrastructure, enabling enterprise-scale AI deployment, model access, and cloud-native AI workflows with secure operational scalability for enterprise AI adoption.",
+    "category": "Enterprise AI Infrastructure",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/"
   }
 ]
