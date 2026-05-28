@@ -15,41 +15,41 @@
     "title": "Macro Evals for Agentic Systems",
     "summary": "System-level evaluation framework for multi-agent AI systems that analyzes orchestration behavior, specialist routing, workflow failures, handoffs, review escalation patterns, and recurring operational risks across large populations of agent traces.",
     "category": "Agentic AI Evaluation + Multi-Agent Observability",
-    "link": "https://github.com/openai/macro-evals"
+    "link": "https://github.com/openai/openai-cookbook/tree/main/examples/partners/macro_evals_for_agentic_systems"
   },
   {
     "title": "GIM: Evaluating Models via Tasks that Integrate Multiple Cognitive Domains",
     "summary": "Cognitive evaluation framework for frontier AI systems that measures integrated reasoning, constraint handling, state tracking, epistemic vigilance, and operational decision-making through multi-domain grounded tasks and IRT-calibrated benchmark scoring.",
     "category": "Frontier AI Evaluation + Cognitive Benchmarking",
-    "link": "https://arxiv.org/abs/2605.14358"
+    "link": "https://arxiv.org/pdf/"
   },
   {
     "title": "AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems",
     "summary": "Coordination-policy substrate for orchestrating multi-agent systems through structured interaction governance, execution policies, collaborative reasoning, and scalable autonomous agent coordination frameworks.",
     "category": "Multi-Agent Coordination Infrastructure + Agent Governance Frameworks",
-    "link": "https://github.com/AgensFlow/AgensFlow"
+    "link": "https://github.com/Nicolepcx/AgensFlow"
   },
   {
     "title": "MATRA: Modeling the Attack Surface of Agentic AI Systems",
     "summary": "Architecture-driven threat modeling framework for Agentic AI systems that maps prompt injection, tool misuse, hallucinations, and autonomous execution risks into deployment-specific enterprise security exposures using the OpenClaw case study.",
     "category": "Agentic AI Security + Threat Modeling",
-    "link": "https://arxiv.org/abs/2605.17406"
+    "link": "https://arxiv.org/pdf/2605.10763"
   },
   {
     "title": "Autonomy and Agency in Agentic AI",
     "summary": "Enterprise framework for balancing autonomy, agency, governance, oversight, reversibility, and compliance in regulated Agentic AI systems through architectural control tactics such as checkpoints, escalation, tool fencing, and staged writes.",
     "category": "Agentic AI Governance + Enterprise AI Architecture",
-    "link": "https://arxiv.org/abs/2605.16133"
+    "link": "https://arxiv.org/pdf/2605.12105"
   },
   {
     "title": "TurboVec — Rust-Based Vector Index Built on TurboQuant",
     "summary": "High-performance vector indexing engine built in Rust with Python bindings, leveraging TurboQuant for compressed vector storage, efficient ANN retrieval, and low-latency semantic search infrastructure for AI-native applications.",
     "category": "Vector Infrastructure + AI Retrieval Systems",
-    "link": "https://github.com/turbopuffer/turbovec"
+    "link": "https://github.com/RyanCodrai/turbovec"
   },
   {
     "title": "Claude Platform on AWS",
-    "summary": "Anthropic’s Claude platform integrated with AWS infrastructure, enabling enterprise-scale AI deployment, model access, and cloud-native AI workflows with secure operational scalability for enterprise AI adoption.",
+    "summary": "Anthropic’s Claude platform integrated with AWS infrastructure, enabling enterprise-scale AI deployment, model access, and cloud-native AI workflows.",
     "category": "Enterprise AI Infrastructure",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/"
   }
