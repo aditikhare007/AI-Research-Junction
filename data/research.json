@@ -1,5 +1,23 @@
 [
   {
+    "title": "Claude Opus 4.8: Anthropic’s Newest Frontier Model Now Available on AWS and Microsoft Foundry",
+    "summary": "Anthropic launched Claude Opus 4.8, its latest frontier reasoning model featuring stronger coding capabilities, enhanced agentic task execution, improved transparency and self-honesty, long-horizon reasoning, and support for enterprise-scale autonomous workflows. The model is now available across Anthropic, AWS Bedrock, and Microsoft Foundry, expanding enterprise deployment and multi-cloud AI adoption.",
+    "category": "Frontier Foundation Models + Enterprise AI Platforms",
+    "link": "https://www.anthropic.com/news/claude-opus-4-8"
+  },
+  {
+    "title": "AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems",
+    "summary": "Coordination-policy substrate for orchestrating multi-agent systems through structured interaction governance, execution policies, collaborative reasoning, and scalable autonomous agent coordination frameworks.",
+    "category": "Multi-Agent Coordination Infrastructure + Agent Governance Frameworks",
+    "link": "https://github.com/Nicolepcx/AgensFlow"
+  },
+  {
+    "title": "TurboVec — Rust-Based Vector Index Built on TurboQuant",
+    "summary": "High-performance vector indexing engine built in Rust with Python bindings, leveraging TurboQuant for compressed vector storage, efficient ANN retrieval, and low-latency semantic search infrastructure for AI-native applications.",
+    "category": "Vector Infrastructure + AI Retrieval Systems",
+    "link": "https://github.com/RyanCodrai/turbovec"
+  },
+  {
     "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
     "summary": "Microsoft Research framework for optimizing, governing, and evolving reusable AI agent skills through execution feedback, strategic skill selection, adaptive orchestration, and autonomous capability refinement across enterprise multi-agent systems.",
     "category": "Self-Evolving Agent Skills + Enterprise Agentic Optimization",
@@ -24,33 +42,15 @@
     "link": "https://arxiv.org/pdf/"
   },
   {
-    "title": "AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems",
-    "summary": "Coordination-policy substrate for orchestrating multi-agent systems through structured interaction governance, execution policies, collaborative reasoning, and scalable autonomous agent coordination frameworks.",
-    "category": "Multi-Agent Coordination Infrastructure + Agent Governance Frameworks",
-    "link": "https://github.com/Nicolepcx/AgensFlow"
-  },
-  {
-    "title": "MATRA: Modeling the Attack Surface of Agentic AI Systems",
-    "summary": "Architecture-driven threat modeling framework for Agentic AI systems that maps prompt injection, tool misuse, hallucinations, and autonomous execution risks into deployment-specific enterprise security exposures using the OpenClaw case study.",
-    "category": "Agentic AI Security + Threat Modeling",
-    "link": "https://arxiv.org/pdf/2605.10763"
-  },
-  {
     "title": "Autonomy and Agency in Agentic AI",
     "summary": "Enterprise framework for balancing autonomy, agency, governance, oversight, reversibility, and compliance in regulated Agentic AI systems through architectural control tactics such as checkpoints, escalation, tool fencing, and staged writes.",
     "category": "Agentic AI Governance + Enterprise AI Architecture",
     "link": "https://arxiv.org/pdf/2605.12105"
   },
   {
-    "title": "TurboVec — Rust-Based Vector Index Built on TurboQuant",
-    "summary": "High-performance vector indexing engine built in Rust with Python bindings, leveraging TurboQuant for compressed vector storage, efficient ANN retrieval, and low-latency semantic search infrastructure for AI-native applications.",
-    "category": "Vector Infrastructure + AI Retrieval Systems",
-    "link": "https://github.com/RyanCodrai/turbovec"
-  },
-  {
-    "title": "Claude Platform on AWS",
-    "summary": "Anthropic’s Claude platform integrated with AWS infrastructure, enabling enterprise-scale AI deployment, model access, and cloud-native AI workflows.",
-    "category": "Enterprise AI Infrastructure",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/"
+    "title": "MATRA: Modeling the Attack Surface of Agentic AI Systems",
+    "summary": "Architecture-driven threat modeling framework for Agentic AI systems that maps prompt injection, tool misuse, hallucinations, and autonomous execution risks into deployment-specific enterprise security exposures using the OpenClaw case study.",
+    "category": "Agentic AI Security + Threat Modeling",
+    "link": "https://arxiv.org/pdf/2605.10763"
   }
 ]
