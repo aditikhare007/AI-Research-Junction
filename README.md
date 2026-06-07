@@ -1,5 +1,5 @@
-# 🚀 AI Research Junction  
-### AI Research Junction  — Executive intelligence and strategic perspectives at the frontier of global enterprise AI.
+# 🚀 Founder, AI Research Junction — 
+### Executive intelligence and strategic perspectives at the frontier of global enterprise AI.
 ---
 
 ## 👩‍💻 Aditi Khare  
@@ -15,7 +15,7 @@ Architecting and scaling **production-grade AI systems globally** — Led & Owne
 💼 LinkedIn: [Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)  
 
 ---
-AI Research Junction  — Executive intelligence and strategic perspectives at the frontier of global enterprise AI. **
+Founder AI Research Junction  — Executive intelligence and strategic perspectives at the frontier of global enterprise AI. **
 
 [![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/newsletters/ai-research-junction-7152631955203739649/)  
 [![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://aditishashikhare.substack.com/)  
@@ -24,7 +24,7 @@ AI Research Junction  — Executive intelligence and strategic perspectives at t
 
 ## 🧠 What This Repository Is  
 
-AI Research Junction is a **curated intelligence layer for modern AI systems** — focused on translating cutting-edge research into **practical, production-relevant insights**.  
+AI Research Junction is a **curated intelligence layer for modern AI systems** — focused on Executive intelligence and strategic perspectives at the frontier of global enterprise AI.** 
 
 It is designed for:
 - AI engineers building production systems  
@@ -53,9 +53,12 @@ It is designed for:
 
 ---
 
-## 📅 Curated AI Research Papers (2024–2026)
+## 📚 AI Research Intelligence Hub (2024–Present)
 
-> High-signal papers organized by timeline and system relevance
+> Executive intelligence on frontier AI research, foundation models,
+> agentic systems, reasoning, multimodal architectures, AI infrastructure,
+> and enterprise-scale AI innovation.
+
 > ### June 2026
 
 | Paper                                                                          | Focus                                                                                                                                                                                                                                                         | Link                                                                                                                                                                                                                                                                                                                                      | Category                                           |
