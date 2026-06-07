@@ -53,7 +53,7 @@ Designed to bridge the gap between research breakthroughs and global adoption, t
 
 ---
 
-## 📚 Research Intelligence Coverage
+## 📚 AI Research Junction Coverage
 
 ### 🔷 Foundation Models & Generative AI
 - Large Language Models (LLMs)
@@ -89,7 +89,7 @@ Designed to bridge the gap between research breakthroughs and global adoption, t
 
 > **AI Research Junction** provides executive intelligence and strategic perspectives at the frontier of global enterprise AI, connecting breakthrough research with strategic insights, Production-grade Scalable AI systems at global enterprise scale.
 
-## 📚 AI Research Intelligence Hub (2024–Present)
+## 📚 AI Research Junction (2024–Present)
 
 > Executive intelligence on frontier AI research, foundation models,
 > agentic systems, reasoning, multimodal architectures, AI infrastructure,
