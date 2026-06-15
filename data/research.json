@@ -1,56 +1,62 @@
 [
   {
-    "title": "Claude Opus 4.8: Anthropic’s Newest Frontier Model Now Available on AWS and Microsoft Foundry",
-    "summary": "Anthropic launched Claude Opus 4.8, its latest frontier reasoning model featuring stronger coding capabilities, enhanced agentic task execution, improved transparency and self-honesty, long-horizon reasoning, and support for enterprise-scale autonomous workflows. The model is now available across Anthropic, AWS Bedrock, and Microsoft Foundry, expanding enterprise deployment and multi-cloud AI adoption.",
-    "category": "Frontier Foundation Models + Enterprise AI Platforms",
-    "link": "https://www.anthropic.com/news/claude-opus-4-8"
+    "title": "Omnigent: The Control Plane for Enterprise Agent Ecosystems",
+    "summary": "Omnigent is an open-source meta-harness that sits above existing agent frameworks and coding agents, enabling organizations to combine, control, and share heterogeneous agents through a unified abstraction layer. It introduces policy-driven governance, budget controls, permission management, sandboxed execution, multi-agent composition, and real-time collaborative workflows. By decoupling orchestration and control from individual agent harnesses, Omnigent enables interoperable, enterprise-scale agent ecosystems while reducing framework lock-in and operational complexity.",
+    "category": "Agent Infrastructure + Agent Orchestration + Multi-Agent Systems + AI Governance",
+    "links": {
+      "databricks_blog": "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents",
+      "github": "https://github.com/omnigent-ai/omnigent"
+    }
   },
   {
-    "title": "AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems",
-    "summary": "Coordination-policy substrate for orchestrating multi-agent systems through structured interaction governance, execution policies, collaborative reasoning, and scalable autonomous agent coordination frameworks.",
-    "category": "Multi-Agent Coordination Infrastructure + Agent Governance Frameworks",
-    "link": "https://github.com/Nicolepcx/AgensFlow"
+    "title": "Continual Learning Bench (CL-Bench): Evaluating Frontier AI Systems in Stateful Environments",
+    "summary": "CL-Bench introduces a comprehensive benchmark for measuring whether frontier AI systems can learn from experience, accumulate knowledge, transfer insights across tasks, and continuously improve within persistent stateful environments. The benchmark exposes a critical gap between model capability and adaptive intelligence, revealing that even advanced AI systems struggle with long-horizon learning, knowledge consolidation, and sustained performance improvement over time.",
+    "category": "Continual Learning + Adaptive AI + Agent Evaluation",
+    "link": "https://arxiv.org/pdf/2606.05661"
   },
   {
-    "title": "TurboVec — Rust-Based Vector Index Built on TurboQuant",
-    "summary": "High-performance vector indexing engine built in Rust with Python bindings, leveraging TurboQuant for compressed vector storage, efficient ANN retrieval, and low-latency semantic search infrastructure for AI-native applications.",
-    "category": "Vector Infrastructure + AI Retrieval Systems",
-    "link": "https://github.com/RyanCodrai/turbovec"
+    "title": "Anthropic — Introducing Claude Fable 5 and Claude Mythos 5",
+    "summary": "Anthropic's latest frontier models represent a significant step toward enterprise-scale cognitive systems, advancing reasoning depth, reliability, long-context understanding, and agentic execution. The release reflects the broader industry transition from standalone language models to production-grade AI systems capable of powering complex workflows, decision intelligence, and next-generation enterprise applications.",
+    "category": "Frontier Models + Agentic AI + Enterprise AI Systems",
+    "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
   },
   {
-    "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-    "summary": "Microsoft Research framework for optimizing, governing, and evolving reusable AI agent skills through execution feedback, strategic skill selection, adaptive orchestration, and autonomous capability refinement across enterprise multi-agent systems.",
-    "category": "Self-Evolving Agent Skills + Enterprise Agentic Optimization",
-    "link": "https://github.com/microsoft/SkillOpt"
+    "title": "LEAP: Advancing Formal Mathematical Intelligence Through Agentic AI Systems",
+    "summary": "LEAP introduces an agentic framework that enhances LLM performance on formal mathematics through theorem proving, iterative reasoning, tool use, and self-improvement loops, highlighting the next frontier of AI capabilities in complex symbolic reasoning.",
+    "category": "Agentic AI + Mathematical Reasoning",
+    "link": "https://arxiv.org/pdf/2606.03303"
   },
   {
-    "title": "Gemini Spark — Google’s 24/7 Personal AI Agent",
-    "summary": "Persistent autonomous AI agent framework designed to operate continuously across digital workflows, enabling proactive task execution, background orchestration, cloud-based persistence, and human-supervised personal AI assistance across Workspace and connected applications.",
-    "category": "Persistent AI Agents + Consumer Agentic AI Infrastructure",
-    "link": "https://gemini.google/overview/agent/spark/"
+    "title": "The Rise of Personal AI Infrastructure: Scaling Millions of Persistent Models on Trillion-Parameter Foundations",
+    "summary": "This research explores how parameter-efficient fine-tuning (PEFT) can evolve into a scalable infrastructure layer for maintaining millions of personalized AI models on top of shared trillion-parameter foundation models, enabling persistent and individualized intelligence at scale.",
+    "category": "Personal AI Infrastructure + Foundation Models",
+    "link": "https://arxiv.org/pdf/2606.02437"
   },
   {
-    "title": "Macro Evals for Agentic Systems",
-    "summary": "System-level evaluation framework for multi-agent AI systems that analyzes orchestration behavior, specialist routing, workflow failures, handoffs, review escalation patterns, and recurring operational risks across large populations of agent traces.",
-    "category": "Agentic AI Evaluation + Multi-Agent Observability",
-    "link": "https://github.com/openai/openai-cookbook/tree/main/examples/partners/macro_evals_for_agentic_systems"
+    "title": "Mid-Training: The Emerging Strategic Layer of Foundation Model Development",
+    "summary": "Mid-training is becoming a critical stage between pre-training and post-training, enabling foundation models to acquire domain expertise, reasoning capabilities, and specialized knowledge more efficiently than scaling pre-training alone.",
+    "category": "Foundation Models + Model Development Strategy",
+    "link": "https://paperswithcode.co/methods/mid-training"
   },
   {
-    "title": "GIM: Evaluating Models via Tasks that Integrate Multiple Cognitive Domains",
-    "summary": "Cognitive evaluation framework for frontier AI systems that measures integrated reasoning, constraint handling, state tracking, epistemic vigilance, and operational decision-making through multi-domain grounded tasks and IRT-calibrated benchmark scoring.",
-    "category": "Frontier AI Evaluation + Cognitive Benchmarking",
-    "link": "https://arxiv.org/pdf/"
+    "title": "Beyond Static Benchmarks: Evaluating Continual Intelligence in Real-World Stateful AI Systems",
+    "summary": "Continual Learning Bench introduces a new framework for evaluating how AI systems adapt, retain knowledge, and learn over time, moving beyond static benchmarks toward measuring continual intelligence in dynamic environments.",
+    "category": "Continual Learning + AI Evaluation",
+    "link": "https://arxiv.org/pdf/2606.05661"
   },
   {
-    "title": "Autonomy and Agency in Agentic AI",
-    "summary": "Enterprise framework for balancing autonomy, agency, governance, oversight, reversibility, and compliance in regulated Agentic AI systems through architectural control tactics such as checkpoints, escalation, tool fencing, and staged writes.",
-    "category": "Agentic AI Governance + Enterprise AI Architecture",
-    "link": "https://arxiv.org/pdf/2605.12105"
+    "title": "The Data Agent Frontier: Measuring AI's Ability to Reason, Retrieve, and Deliver Business Intelligence",
+    "summary": "DataAgentBench evaluates AI agents across realistic business intelligence workflows, measuring their ability to retrieve information, perform analytical reasoning, and generate actionable enterprise insights.",
+    "category": "Data Agents + Enterprise AI Intelligence",
+    "link": "https://arxiv.org/abs/2603.20576"
   },
   {
-    "title": "MATRA: Modeling the Attack Surface of Agentic AI Systems",
-    "summary": "Architecture-driven threat modeling framework for Agentic AI systems that maps prompt injection, tool misuse, hallucinations, and autonomous execution risks into deployment-specific enterprise security exposures using the OpenClaw case study.",
-    "category": "Agentic AI Security + Threat Modeling",
-    "link": "https://arxiv.org/pdf/2605.10763"
+    "title": "Vector Lakebase: Zilliz’s AI-Native Data Foundation for Agentic Systems",
+    "summary": "Zilliz introduced Vector Lakebase, a next-generation AI data architecture that unifies data lake scalability with vector database performance, supporting enterprise RAG, multimodal AI, and continuously evolving agentic systems.",
+    "category": "AI Data Infrastructure + Agentic AI Platforms",
+    "links": {
+      "zilliz_blog": "https://zilliz.com/blog/why-we-built-vector-lakebase",
+      "zilliz_platform": "https://zilliz.com/"
+    }
   }
 ]
