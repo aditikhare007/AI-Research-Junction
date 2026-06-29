@@ -1,4 +1,50 @@
+```json
 [
+  {
+    "title": "The Red Queen Gödel Machine: Co-Evaluating Agents and Their Evaluators",
+    "summary": "The Red Queen Gödel Machine introduces a co-evolutionary framework where AI agents and their evaluation mechanisms continuously improve through mutual optimization. Rather than treating evaluation as a static benchmark, the architecture enables evaluators to evolve alongside agents, creating an adversarial yet cooperative feedback ecosystem that drives sustained capability growth. This co-evaluation paradigm addresses evaluator overfitting, reward hacking, and stagnation while supporting open-ended self-improvement. The framework advances research in autonomous AI evolution, self-improving systems, and recursive agent optimization, providing a foundation for more robust and adaptive intelligent systems.",
+    "category": "Self-Improving AI + Agent Evaluation + Recursive Optimization + Open-Ended Intelligence",
+    "link": "https://arxiv.org/pdf/2606.26294"
+  },
+  {
+    "title": "Autodata: An Agentic Data Scientist for High-Quality Synthetic Data Generation",
+    "summary": "AutoData introduces an autonomous agentic framework that automates the end-to-end process of synthetic data creation through iterative planning, generation, evaluation, and refinement. Rather than relying on manually engineered datasets, AutoData employs AI agents to understand task requirements, curate data distributions, generate synthetic examples, and continuously assess quality through feedback loops. This agentic approach significantly improves data diversity, realism, and task alignment while reducing human intervention. The framework provides a scalable foundation for generating high-quality synthetic datasets for training, benchmarking, and evaluating next-generation AI systems across multiple domains.",
+    "category": "Synthetic Data + Agentic AI + Data Generation + AI Evaluation",
+    "link": "https://arxiv.org/pdf/2606.25996"
+  },
+  {
+    "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+    "summary": "JetSpec introduces a novel speculative decoding architecture that overcomes traditional scaling limitations by leveraging parallel tree-based drafting strategies. Instead of generating speculative tokens sequentially, JetSpec constructs multiple candidate decoding paths simultaneously, enabling efficient exploration of diverse token trajectories and maximizing hardware utilization. This parallel tree drafting framework significantly improves inference throughput while maintaining generation quality, offering a scalable approach for accelerating large language model inference. JetSpec advances the state of efficient AI serving infrastructure and provides a practical pathway toward production-scale deployment of frontier language models.",
+    "category": "LLM Inference + Speculative Decoding + Systems Optimization + AI Infrastructure",
+    "link": "https://arxiv.org/pdf/2606.18394v2"
+  },
+  {
+    "title": "Reasoning Quality Emerges Early: Data Curation for Reasoning Models",
+    "summary": "This work demonstrates that high-quality reasoning capabilities emerge primarily from careful data curation rather than solely from model scale or extensive post-training optimization. The research introduces systematic methodologies for constructing, filtering, and optimizing reasoning datasets, showing that strategically curated data substantially improves reasoning performance during early training phases. By emphasizing data quality, diversity, and cognitive complexity, the framework offers new insights into developing more efficient and capable reasoning models while reducing computational requirements. The findings provide important implications for the design of next-generation reasoning-centric foundation models.",
+    "category": "Reasoning Models + Data Curation + Training Data + AI Research",
+    "link": "https://arxiv.org/pdf/2606.26797"
+  },
+  {
+    "title": "AtomMem: Building Simple and Effective Memory System for LLM Agents via Atomic Facts",
+    "summary": "AtomMem introduces a memory architecture that transforms unstructured interactions into atomic facts, enabling LLM agents to store, retrieve, update, and reason over long-term knowledge with greater precision and efficiency. Instead of maintaining memory as large conversation histories or embeddings alone, AtomMem decomposes information into structured factual units that can be incrementally managed and queried. This atomic-fact approach improves memory consistency, retrieval accuracy, scalability, and long-horizon agent performance, providing a practical foundation for persistent memory systems in next-generation autonomous AI agents.",
+    "category": "Agent Memory + Long-Term Memory + Knowledge Management + Memory Architecture",
+    "link": "https://arxiv.org/pdf/2606.19847"
+  },
+  {
+    "title": "Compositional Skill Routing for LLM Agents: Decompose, Retrieve, and Compose",
+    "summary": "Compositional Skill Routing introduces a framework that enables LLM agents to dynamically solve complex tasks by decomposing objectives into reusable sub-skills, retrieving the most relevant capabilities from a skill repository, and composing them into executable workflows. Instead of relying on monolithic prompts or fixed tool chains, the architecture promotes modular reasoning, skill reuse, and adaptive task execution. By enabling agents to assemble task-specific solutions from a growing library of learned competencies, the framework improves scalability, generalization, and efficiency while advancing the development of more capable and flexible agent ecosystems.",
+    "category": "Agent Architecture + Skill Composition + Agent Orchestration + Modular Reasoning",
+    "link": "https://arxiv.org/pdf/2606.18051"
+  },
+  {
+    "title": "Loopcraft: The Art of Loop Engineering",
+    "summary": "Loopcraft introduces a new architectural paradigm where AI systems are built through the deliberate composition of iterative execution loops rather than isolated prompt-response interactions. The framework positions planning, reasoning, execution, reflection, evaluation, memory, and coordination loops as the foundational building blocks of agentic systems. By stacking and orchestrating these loops across different timescales, developers can create adaptive AI systems that continuously learn, self-correct, recover from failures, and pursue long-running objectives. The approach represents a shift from workflow-centric design to loop-centric system engineering, enabling more resilient, autonomous, and production-grade AI agents capable of sustained reasoning and continuous improvement.",
+    "category": "Loop Engineering + Agent Architecture + Autonomous Systems + AI Systems Design + Continuous Improvement Systems",
+    "links": {
+      "latent_space": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+      "langchain_blog": "https://www.langchain.com/blog/the-art-of-loop-engineering"
+    }
+  },
   {
     "title": "Omnigent: The Control Plane for Enterprise Agent Ecosystems",
     "summary": "Omnigent is an open-source meta-harness that sits above existing agent frameworks and coding agents, enabling organizations to combine, control, and share heterogeneous agents through a unified abstraction layer. It introduces policy-driven governance, budget controls, permission management, sandboxed execution, multi-agent composition, and real-time collaborative workflows. By decoupling orchestration and control from individual agent harnesses, Omnigent enables interoperable, enterprise-scale agent ecosystems while reducing framework lock-in and operational complexity.",
@@ -13,50 +59,6 @@
     "summary": "CL-Bench introduces a comprehensive benchmark for measuring whether frontier AI systems can learn from experience, accumulate knowledge, transfer insights across tasks, and continuously improve within persistent stateful environments. The benchmark exposes a critical gap between model capability and adaptive intelligence, revealing that even advanced AI systems struggle with long-horizon learning, knowledge consolidation, and sustained performance improvement over time.",
     "category": "Continual Learning + Adaptive AI + Agent Evaluation",
     "link": "https://arxiv.org/pdf/2606.05661"
-  },
-  {
-    "title": "Anthropic — Introducing Claude Fable 5 and Claude Mythos 5",
-    "summary": "Anthropic's latest frontier models represent a significant step toward enterprise-scale cognitive systems, advancing reasoning depth, reliability, long-context understanding, and agentic execution. The release reflects the broader industry transition from standalone language models to production-grade AI systems capable of powering complex workflows, decision intelligence, and next-generation enterprise applications.",
-    "category": "Frontier Models + Agentic AI + Enterprise AI Systems",
-    "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
-  },
-  {
-    "title": "LEAP: Advancing Formal Mathematical Intelligence Through Agentic AI Systems",
-    "summary": "LEAP introduces an agentic framework that enhances LLM performance on formal mathematics through theorem proving, iterative reasoning, tool use, and self-improvement loops, highlighting the next frontier of AI capabilities in complex symbolic reasoning.",
-    "category": "Agentic AI + Mathematical Reasoning",
-    "link": "https://arxiv.org/pdf/2606.03303"
-  },
-  {
-    "title": "The Rise of Personal AI Infrastructure: Scaling Millions of Persistent Models on Trillion-Parameter Foundations",
-    "summary": "This research explores how parameter-efficient fine-tuning (PEFT) can evolve into a scalable infrastructure layer for maintaining millions of personalized AI models on top of shared trillion-parameter foundation models, enabling persistent and individualized intelligence at scale.",
-    "category": "Personal AI Infrastructure + Foundation Models",
-    "link": "https://arxiv.org/pdf/2606.02437"
-  },
-  {
-    "title": "Mid-Training: The Emerging Strategic Layer of Foundation Model Development",
-    "summary": "Mid-training is becoming a critical stage between pre-training and post-training, enabling foundation models to acquire domain expertise, reasoning capabilities, and specialized knowledge more efficiently than scaling pre-training alone.",
-    "category": "Foundation Models + Model Development Strategy",
-    "link": "https://paperswithcode.co/methods/mid-training"
-  },
-  {
-    "title": "Beyond Static Benchmarks: Evaluating Continual Intelligence in Real-World Stateful AI Systems",
-    "summary": "Continual Learning Bench introduces a new framework for evaluating how AI systems adapt, retain knowledge, and learn over time, moving beyond static benchmarks toward measuring continual intelligence in dynamic environments.",
-    "category": "Continual Learning + AI Evaluation",
-    "link": "https://arxiv.org/pdf/2606.05661"
-  },
-  {
-    "title": "The Data Agent Frontier: Measuring AI's Ability to Reason, Retrieve, and Deliver Business Intelligence",
-    "summary": "DataAgentBench evaluates AI agents across realistic business intelligence workflows, measuring their ability to retrieve information, perform analytical reasoning, and generate actionable enterprise insights.",
-    "category": "Data Agents + Enterprise AI Intelligence",
-    "link": "https://arxiv.org/abs/2603.20576"
-  },
-  {
-    "title": "Vector Lakebase: Zilliz’s AI-Native Data Foundation for Agentic Systems",
-    "summary": "Zilliz introduced Vector Lakebase, a next-generation AI data architecture that unifies data lake scalability with vector database performance, supporting enterprise RAG, multimodal AI, and continuously evolving agentic systems.",
-    "category": "AI Data Infrastructure + Agentic AI Platforms",
-    "links": {
-      "zilliz_blog": "https://zilliz.com/blog/why-we-built-vector-lakebase",
-      "zilliz_platform": "https://zilliz.com/"
-    }
   }
 ]
+```
