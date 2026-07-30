@@ -14,80 +14,132 @@ Architecting and scaling **production-grade AI systems globally** — Championed
 🤗 Hugging Face: [AditiShashiKhare](https://huggingface.co/AditiShashiKhare)  
 💼 LinkedIn: [Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)  
 
----
-Founder AI Research Junction  — Executive intelligence and strategic perspectives at the frontier of global enterprise AI. **
+## 📚 Founder AI Research Junction
+
+> **Executive Intelligence & Strategic Perspectives at the Frontier of Global Enterprise AI**
+
+AI Research Junction is a curated intelligence library that transforms frontier AI research into executive insights, architectural analysis, and enterprise perspectives.
+
+Rather than functioning as a traditional paper repository, the library systematically tracks the technologies, architectures, and engineering disciplines shaping the next generation of production-grade AI systems.
+
+Each research analysis bridges cutting-edge innovation with enterprise relevance, helping readers understand not only **what has changed**, but **why it matters** and **how it fits into the broader evolution of AI systems.**
 
 [![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/newsletters/ai-research-junction-7152631955203739649/)  
 [![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://aditishashikhare.substack.com/)  
 
 ---
 
-## 🧠 What This Repository Represents
+# 🎯 Who This Library Serves
 
-**AI Research Junction** is an executive intelligence platform dedicated to the systematic analysis of frontier AI research, emerging architectures, and enterprise-scale AI innovation.
+AI Research Junction is designed for professionals building, evaluating, and leading enterprise AI.
 
-Rather than functioning as a traditional paper repository, it serves as a curated intelligence layer that distills high-impact research into strategic insights for builders, decision-makers, and technology leaders navigating the rapidly evolving AI landscape.
-
-Designed to bridge the gap between research breakthroughs and global adoption, the repository emphasizes the technologies, systems, and architectural patterns shaping the next generation of enterprise AI.
-
----
-
-## 🎯 Who This Is For
-
-- AI and ML engineers building production-scale intelligent systems
-- AI product leaders evaluating emerging capabilities and strategic opportunities
-- Enterprise architects designing AI platforms and infrastructure
-- Researchers tracking frontier developments across models, agents, and reasoning systems
-- Technology executives responsible for AI strategy, innovation, and transformation
+- AI Engineers & Applied Scientists
+- AI Platform & Infrastructure Engineers
+- Enterprise Architects
+- AI Researchers
+- Technology Leaders & Decision Makers
 
 ---
 
-## ⚙️ What You'll Find
+# 📚 AI Research Junction Library
 
-- Curated high-signal AI research from leading labs, academia, and industry
-- Executive intelligence on frontier model capabilities and emerging trends
-- Analysis of Generative AI, Agentic AI, multimodal systems, and foundation models
-- Research translated into practical architectural and deployment considerations
-- Strategic perspectives on enterprise adoption, governance, evaluation, and scale
-- Cross-paper synthesis highlighting emerging system patterns and industry direction
+The library organizes frontier AI research into a curated taxonomy covering the core technologies driving modern AI systems.
 
----
+### Research Domains
 
-## 📚 AI Research Junction Coverage
+🤖 **Agentic AI & Multi-Agent Systems**
 
-### 🔷 Foundation Models & Generative AI
-- Large Language Models (LLMs)
-- Multimodal Foundation Models
-- Generative AI Systems
-- Model Training, Alignment & Optimization
-
-### 🔷 Agentic & Autonomous Systems
-- Agentic AI Architectures
+- Agent Frameworks
+- Agent Harnesses
+- Agent Memory
+- Context Engineering
 - Multi-Agent Systems
-- Planning, Tool Use & Workflow Orchestration
-- Autonomous Reasoning Frameworks
-
-### 🔷 Enterprise AI Systems
-- AI Platform Engineering
-- AI Infrastructure & Deployment
-- Production-Scale AI Architectures
-- Enterprise AI Governance & Operations
-
-### 🔷 Reasoning, Retrieval & Intelligence
-- Retrieval-Augmented Generation (RAG)
-- Long-Context Systems
-- Knowledge Architectures
-- Reasoning & Decision Intelligence
-
-### 🔷 Evaluation, Safety & Reliability
-- AI Evaluation Frameworks
-- Trust, Safety & Alignment
-- Robustness & Reliability
-- Benchmarking & Measurement Systems
 
 ---
 
-> **AI Research Junction** provides executive intelligence and strategic perspectives at the frontier of global enterprise AI, connecting breakthrough research with strategic insights, Production-grade Scalable AI systems at global enterprise scale.
+🏗 **Enterprise AI Platforms**
+
+- AI Platforms
+- Enterprise Infrastructure
+- Platform Architecture
+- AI Middleware
+- AI Operations
+
+---
+
+🧠 **AI Memory & Reasoning**
+
+- Long-Context Systems
+- AI Memory
+- Reasoning Models
+- Retrieval Systems
+- Cognitive Architectures
+
+---
+
+📊 **AI Evaluation & Benchmarking**
+
+- LLM Evaluation
+- AI Benchmarks
+- Testing & Validation
+- Reliability
+- Trust
+
+---
+
+⚙️ **AI Infrastructure & Systems**
+
+- Inference Systems
+- Runtime Optimization
+- Distributed AI
+- AI Serving
+- Systems Engineering
+
+---
+
+🔒 **AI Safety & Security**
+
+- AI Safety
+- AI Security
+- Alignment
+- Red Teaming
+- Secure AI Systems
+
+---
+
+👁 **Computer Vision & Multimodal AI**
+
+- Vision Models
+- Vision-Language Models
+- Video AI
+- Multimodal Systems
+- Industrial Vision
+
+---
+
+# 🔍 Navigating the Library
+
+The library is intentionally organized to make discovering frontier AI research straightforward.
+
+### Latest Research
+
+Browse the chronological research index below to explore the newest analyses.
+
+### Explore by Topic
+
+Use the **Category** column to discover related work across research domains.
+
+### Search the Library
+
+GitHub search can be used to locate papers by technology, architecture, research area, or keyword.
+
+### Primary Sources
+
+Every entry links directly to the original research paper, technical blog, project page, or supporting resources.
+
+---
+
+# 📖 Latest Research
 
 ## 📚 Founder AI Research Junction (2024–Present)
 
@@ -98,6 +150,7 @@ Designed to bridge the gap between research breakthroughs and global adoption, t
 > ### July 2026
 | Paper                                                                          | Executive Insights                                                                                                                                                                                                                                                        | Link                                                                                                                                                                                                                                                                                                                                      | Category                                           |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| **Kimi K3: Engineering the Open Frontier Intelligence Stack** | Kimi K3 establishes a new benchmark for open-weight frontier AI by unifying frontier-scale reasoning, autonomous agent execution, long-context intelligence, and enterprise-grade software engineering within a single Mixture-of-Experts architecture. Trained at trillion-parameter scale with reinforcement learning and advanced architectural innovations—including Kimi Delta Attention, Attention Residuals, Stable LatentMoE, and MuonClip optimization—it demonstrates that open-weight models can increasingly compete with proprietary frontier systems. Beyond model performance, Kimi K3 represents a strategic shift toward open, production-ready AI infrastructure capable of powering enterprise AI platforms, autonomous agents, knowledge systems, coding assistants, and next-generation intelligent applications at global scale. | **[Technical Blog](https://www.kimi.com/blog/kimi-k3)** · **[GitHub](https://github.com/MoonshotAI/Kimi-K3)** | Open-Weight Frontier AI + Agentic AI + Enterprise AI Infrastructure + Long-Context Reasoning + Reinforcement Learning + AI Systems Engineering |
 | **GPT-Red: Engineering the Autonomous Security Intelligence Layer for Frontier AI** | GPT-Red introduces an autonomous adversarial intelligence framework that transforms AI security from periodic human-led red teaming into a continuously self-improving capability. Trained through large-scale self-play reinforcement learning, it autonomously discovers sophisticated vulnerabilities, generates high-value adversarial attacks, and strengthens frontier foundation models throughout the development lifecycle, establishing AI-native security as a core engineering discipline. | **[Technical Blog](https://openai.com/index/unlocking-self-improvement-gpt-red/)** | AI Security + AI Safety + Red Teaming + Frontier AI + Reinforcement Learning |
 | **MemoHarness: Agent Harnesses That Learn from Experience** | MemoHarness presents an adaptive agent harness architecture that continuously improves agent performance by learning from prior execution experiences. Through experience-driven memory, dynamic context optimization, and harness-level adaptation, it enables AI agents to refine orchestration strategies over time without retraining the underlying foundation model, advancing production-grade autonomous agent systems. | **[Research Paper](https://arxiv.org/abs/2607.14159)** | Agentic AI + Agent Harnesses + Context Engineering + AI Memory + Multi-Agent Systems |
 | **AI Agents Do Not Fail Alone: The Context Fails First** | This research demonstrates that failures in agentic AI systems often originate from deficiencies in context construction rather than model reasoning. It reframes context engineering—including retrieval quality, information composition, and prompt architecture—as the foundational reliability layer for enterprise AI agents, providing a systems-level perspective for designing robust, production-ready agent architectures. | **[Research Paper](https://arxiv.org/pdf/2607.14275v1)** | Context Engineering + Agentic AI + AI Reliability + Enterprise AI + Multi-Agent Systems |
