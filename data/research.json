@@ -1,5 +1,51 @@
 [
   {
+    "title": "Muse Glimmer: The Architecture of Local Agentic Intelligence",
+    "summary": "Muse Glimmer represents a strategic shift toward local, execution-centric AI by combining a 30B open model with long-horizon reasoning, model-native tool use, multimodal perception, failure recovery, and efficient local inference. Designed for always-on agents running on consumer hardware, it moves agentic intelligence closer to the environment where tasks are performed—reframing the model from a conversational interface into an execution-oriented intelligence layer. Its architecture points toward a new generation of local agentic systems capable of reasoning, perceiving, acting, recovering, and completing tasks without relying entirely on cloud infrastructure.",
+    "category": "Local Agentic AI + Execution-Centric Intelligence + Model-Native Tool Use + Multimodal Perception + Failure Recovery + Long-Horizon Reasoning + Efficient Local Inference",
+    "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "github": "https://github.com/meta-llama"
+  },
+  {
+    "title": "Kernel Forge: From AI Code Generation to Autonomous GPU Optimization",
+    "summary": "Kernel Forge reimagines CUDA kernel optimization as an autonomous AI-driven engineering workflow rather than a traditional compiler optimization problem. The framework combines Large Language Models, runtime profiling, structured operator representations, automated validation, benchmarking, iterative repair, and Monte Carlo Tree Search to continuously generate, evaluate, and refine high-performance CUDA kernels. Instead of treating code generation as the final objective, Kernel Forge establishes a closed-loop optimization architecture where execution feedback guides successive optimization decisions, enabling self-improving GPU performance engineering. Beyond accelerating CUDA development, the research presents a scalable blueprint for AI-native software engineering, autonomous compiler systems, and next-generation enterprise AI infrastructure.",
+    "category": "Agentic AI + Autonomous Software Engineering + CUDA Kernel Optimization + GPU Performance Engineering + LLM Agents + Monte Carlo Tree Search (MCTS) + Runtime Validation + AI Systems Engineering + Enterprise AI Infrastructure",
+    "link": "https://arxiv.org/pdf/2607.24762"
+  },
+  {
+    "title": "Kimi K3: Engineering the Open Frontier Intelligence Stack",
+    "summary": "Kimi K3 establishes a new benchmark for open-weight frontier AI by unifying frontier-scale reasoning, autonomous agent execution, long-context intelligence, and enterprise-grade software engineering within a single Mixture-of-Experts architecture. Trained at trillion-parameter scale with reinforcement learning and advanced architectural innovations—including Kimi Delta Attention, Attention Residuals, Stable LatentMoE, and MuonClip optimization—it demonstrates that open-weight models can increasingly compete with proprietary frontier systems. Beyond model performance, Kimi K3 represents a strategic shift toward open, production-ready AI infrastructure capable of powering enterprise AI platforms, autonomous agents, knowledge systems, coding assistants, and next-generation intelligent applications at global scale.",
+    "category": "Open-Weight Frontier AI + Agentic AI + Enterprise AI Infrastructure + Long-Context Reasoning + Reinforcement Learning + AI Systems Engineering",
+    "link": "https://www.kimi.com/blog/kimi-k3",
+    "github": "https://github.com/MoonshotAI/Kimi-K3"
+  },
+  {
+    "title": "Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify",
+    "summary": "Spotify introduces GLIDE, a production-scale generative recommender that reframes podcast discovery as an instruction-following task over a semantically grounded catalog. By representing podcast episodes with compact Semantic IDs, combining recent listening context with long-term user preferences through soft prompts, and conditioning generation on explicit discovery objectives, GLIDE enables controllable, personalized retrieval at scale. Large-scale online experiments demonstrate gains in non-habitual podcast streaming and new-show discovery, positioning generative retrieval as a practical architecture for next-generation recommendation systems.",
+    "category": "Generative Retrieval + Semantic IDs + LLM-based Recommendation + Personalized Discovery + Catalog Grounding + Controllable Recommendation + Production AI Systems + Recommender Infrastructure",
+    "link": "https://arxiv.org/html/2603.17540"
+  },
+  {
+    "title": "SkillSmith: Learning to Compose Parametric Skills and Textual Knowledge",
+    "summary": "SkillSmith introduces a new paradigm for agentic skill composition by treating model weights as an additional modality that an LLM can reason over alongside textual knowledge. Rather than keeping textual experience and parametric skills as separate adaptation mechanisms, SkillSmith jointly processes textual task knowledge and prefix-weight skills to synthesize new task-specific parametric capabilities. This reframes skill composition from shallow weight merging toward instruction-steered synthesis, enabling agents to combine learned behaviors and textual relationships for novel tasks. The deeper implication is a more holistic agent architecture in which knowledge, skills, and model parameters become composable forms of intelligence.",
+    "category": "Parametric Skills + Textual Knowledge + Skill Composition + Weight-Space Reasoning + Agentic AI + Prefix Tuning + Compositional Generalization + Adaptive AI",
+    "link": "https://arxiv.org/pdf/2607.27497"
+  },
+  {
+    "title": "Metis: Memory Foundation Model",
+    "summary": "Metis introduces a new paradigm for AI agent memory by moving memory from an external retrieval module into the foundation model itself. Its architecture establishes a native memory state that persistently evolves across interactions, while native memory procedures allow the model to autonomously remember, forget, update, and utilize information through its own forward computation. This reframes agent memory from an externally orchestrated capability into a model-native intelligence layer, creating a path toward more integrated, efficient, and end-to-end optimizable memory for long-running AI agents.",
+    "category": "Memory Foundation Models + Native AI Memory + Stateful Agents + Persistent Memory + Agentic AI + Memory Architecture + Long-Horizon Intelligence + Model-Native Capabilities",
+    "link": "https://arxiv.org/pdf/2607.26760",
+    "github": "https://github.com/MemTensor/Metis",
+    "model": "https://huggingface.co/collections/IAAR-Shanghai/metis"
+  },
+  {
+    "title": "The Regression Tax: Decomposing Why Skills Help — and Hurt — LLM Agents",
+    "summary": "This research reveals a critical tension in skill-augmented agentic AI: procedural skills can improve task success while simultaneously breaking tasks that agents could previously solve. Across 5,832 task-condition runs spanning two office-automation benchmarks and three model–harness stacks, the study identifies a substantial regression tax, showing that 324 regression transitions offset 59% of 553 gross gain transitions. It decomposes these regressions into three mechanisms—skill-description osmosis, grounding displacement, and verification displacement—revealing that reliability depends not only on what skills teach agents to do, but also on how those skills reshape grounding and verification behavior. The deeper implication is strategic: effective agent skills must optimize for net reliability, not gross capability.",
+    "category": "Agentic AI + Skill-Augmented Agents + Regression Tax + Grounding + Verification + Agent Reliability + Procedural Skills + LLM Evaluation",
+    "link": "https://arxiv.org/pdf/2607.22520"
+  },
+  {
     "title": "GPT-Red: Engineering the Autonomous Security Intelligence Layer for Frontier AI",
     "summary": "GPT-Red introduces an autonomous adversarial intelligence framework that transforms AI security from periodic human-led red teaming into a continuously self-improving capability. Trained through large-scale self-play reinforcement learning, it autonomously discovers sophisticated vulnerabilities, generates high-value adversarial attacks, and strengthens frontier foundation models throughout the development lifecycle, establishing AI-native security as a core engineering discipline.",
     "category": "AI Security + AI Safety + Red Teaming + Frontier AI + Reinforcement Learning",
@@ -10,47 +56,5 @@
     "summary": "MemoHarness presents an adaptive agent harness architecture that continuously improves agent performance by learning from prior execution experiences. Through experience-driven memory, dynamic context optimization, and harness-level adaptation, it enables AI agents to refine orchestration strategies over time without retraining the underlying foundation model, advancing production-grade autonomous agent systems.",
     "category": "Agentic AI + Agent Harnesses + Context Engineering + AI Memory + Multi-Agent Systems",
     "link": "https://arxiv.org/abs/2607.14159"
-  },
-  {
-    "title": "AI Agents Do Not Fail Alone: The Context Fails First",
-    "summary": "This research demonstrates that failures in agentic AI systems often originate from deficiencies in context construction rather than model reasoning. It reframes context engineering—including retrieval quality, information composition, and prompt architecture—as the foundational reliability layer for enterprise AI agents, providing a systems-level perspective for designing robust, production-ready agent architectures.",
-    "category": "Context Engineering + Agentic AI + AI Reliability + Enterprise AI + Multi-Agent Systems",
-    "link": "https://arxiv.org/pdf/2607.14275v1"
-  },
-  {
-    "title": "Inkling: The New Architecture of Generalist Foundation Models",
-    "summary": "Inkling introduces a next-generation foundation model architecture designed to deliver balanced intelligence across reasoning, coding, multimodal understanding, agentic capabilities, and factual reliability. Instead of optimizing for isolated benchmark performance, Inkling emphasizes cognitive balance, robust generalization, and production readiness, representing a shift toward foundation models engineered for adaptable, enterprise-scale AI systems that can operate reliably across diverse real-world tasks.",
-    "category": "Foundation Models + Multimodal AI + Agentic AI + Enterprise AI",
-    "link": "https://thinkingmachines.ai/news/introducing-inkling/#benchmarking-inkling"
-  },
-  {
-    "title": "From Memorization to Reasoning: Decoding the Hidden Computational Gap in LLM Fine-Tuning",
-    "summary": "This mechanistic interpretability study reveals that the primary limitation of current LLM fine-tuning is not knowledge acquisition but knowledge execution. By analyzing internal neural computation, the research demonstrates that stronger reasoning emerges when models learn to orchestrate latent computational circuits rather than simply memorize additional information, providing new insights into building foundation models capable of reliable generalization and systematic reasoning.",
-    "category": "Mechanistic Interpretability + LLM Reasoning + Fine-Tuning + Foundation Models",
-    "link": "https://arxiv.org/pdf/2607.08393"
-  },
-  {
-    "title": "The Organizational Behavior of Agentic AI: Context, Boundaries, and Collective Intelligence in Human-Agent Workflows",
-    "summary": "This research introduces an organizational operating model for Agentic AI, where autonomous agents collaborate through structured roles, contextual awareness, coordination mechanisms, and governance boundaries. Instead of viewing agents as isolated executors, the framework applies organizational behavior principles to enable scalable collective intelligence, adaptive coordination, and enterprise-grade human-agent workflows. It establishes a foundation for designing resilient multi-agent ecosystems that balance autonomy, collaboration, accountability, and contextual decision-making across complex enterprise environments.",
-    "category": "Agentic AI + Multi-Agent Systems + Collective Intelligence + Enterprise AI Architecture",
-    "link": "https://arxiv.org/pdf/2606.30986v1"
-  },
-  {
-    "title": "SensorFM: Architecting the Foundation Intelligence Layer for Continuous Personalized Healthcare",
-    "summary": "SensorFM introduces a large-scale wearable foundation model trained on more than one trillion minutes of multimodal sensor data from five million individuals, learning a general representation of human physiology that transfers across cardiovascular, metabolic, sleep, mental health, and lifestyle prediction tasks. By combining self-supervised learning, missingness-aware modeling, agentic optimization, and Personal Health Agent integration, SensorFM establishes the foundation intelligence layer for continuously personalized, adaptive, and scalable healthcare AI systems.",
-    "category": "Healthcare AI + Foundation Models + Wearable AI + Personal Health Agents + Agentic AI",
-    "link": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/"
-  },
-  {
-    "title": "AdaJEPA: An Adaptive Latent World Model",
-    "summary": "AdaJEPA introduces an adaptive latent world model that continuously refines internal representations through predictive self-supervision. Instead of relying on fixed environmental models, the architecture dynamically adapts its latent space to improve planning, reasoning, and generalization across changing environments. This adaptive world modeling framework advances autonomous intelligence by enabling more robust prediction, efficient representation learning, and scalable decision-making for next-generation embodied and agentic AI systems.",
-    "category": "World Models + Self-Supervised Learning + Adaptive Intelligence + Autonomous AI",
-    "link": "https://arxiv.org/pdf/2606.32026"
-  },
-  {
-    "title": "DRIFTLENS: Auditing the Hidden Cognitive Shifts of Personalized AI",
-    "summary": "DRIFTLENS presents a framework for detecting and auditing hidden cognitive shifts introduced by AI personalization. The architecture continuously monitors how personalized interactions alter model reasoning, behavioral patterns, and decision-making over time, improving transparency and governance of adaptive AI systems. By making personalization dynamics observable and measurable, the framework strengthens AI trust, accountability, and responsible deployment in human-centered intelligent systems.",
-    "category": "AI Governance + Personalized AI + Cognitive Drift + Trustworthy AI",
-    "link": "https://arxiv.org/pdf/2607.02374"
   }
 ]
