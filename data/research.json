@@ -1,60 +1,56 @@
 [
   {
-    "title": "Muse Glimmer: The Architecture of Local Agentic Intelligence",
-    "summary": "Muse Glimmer represents a strategic shift toward local, execution-centric AI by combining a 30B open model with long-horizon reasoning, model-native tool use, multimodal perception, failure recovery, and efficient local inference. Designed for always-on agents running on consumer hardware, it moves agentic intelligence closer to the environment where tasks are performed—reframing the model from a conversational interface into an execution-oriented intelligence layer. Its architecture points toward a new generation of local agentic systems capable of reasoning, perceiving, acting, recovering, and completing tasks without relying entirely on cloud infrastructure.",
-    "category": "Local Agentic AI + Execution-Centric Intelligence + Model-Native Tool Use + Multimodal Perception + Failure Recovery + Long-Horizon Reasoning + Efficient Local Inference",
-    "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "github": "https://github.com/meta-llama"
+    "title": "Recirculation: Giving Transformers a Persistent State",
+    "summary": "Deep-to-shallow feedback gives a feedforward Transformer a lightweight persistent state by recirculating representations from deeper layers back into shallower computation. This approach effectively turns the model into a dynamical system without retraining its core weights, enabling information to persist and evolve across computation cycles while preserving the underlying pretrained model.",
+    "category": "Recirculation + Persistent State + Transformers + Deep-to-Shallow Feedback + Dynamical Systems + LLM Architecture + Efficient AI",
+    "link": "https://arxiv.org/pdf/2608.17981"
   },
   {
-    "title": "Kernel Forge: From AI Code Generation to Autonomous GPU Optimization",
-    "summary": "Kernel Forge reimagines CUDA kernel optimization as an autonomous AI-driven engineering workflow rather than a traditional compiler optimization problem. The framework combines Large Language Models, runtime profiling, structured operator representations, automated validation, benchmarking, iterative repair, and Monte Carlo Tree Search to continuously generate, evaluate, and refine high-performance CUDA kernels. Instead of treating code generation as the final objective, Kernel Forge establishes a closed-loop optimization architecture where execution feedback guides successive optimization decisions, enabling self-improving GPU performance engineering. Beyond accelerating CUDA development, the research presents a scalable blueprint for AI-native software engineering, autonomous compiler systems, and next-generation enterprise AI infrastructure.",
-    "category": "Agentic AI + Autonomous Software Engineering + CUDA Kernel Optimization + GPU Performance Engineering + LLM Agents + Monte Carlo Tree Search (MCTS) + Runtime Validation + AI Systems Engineering + Enterprise AI Infrastructure",
-    "link": "https://arxiv.org/pdf/2607.24762"
+    "title": "The Reliability Gap: Why Agent Success Is Not Agent Reliability",
+    "summary": "ThinkingBox distinguishes between an agent finding one successful trajectory and reliably executing the correct state transition across repeated attempts. The framework evaluates whether agents can reproduce intended behavior consistently rather than treating isolated task success as sufficient evidence of reliability, highlighting repeatability, state correctness, and behavioral consistency as critical dimensions of production agent systems.",
+    "category": "Agent Reliability + Agent Evaluation + State Transitions + Repeatability + ThinkingBox + Production Agents + Robust Agentic AI",
+    "link": "https://arxiv.org/pdf/2608.19741"
   },
   {
-    "title": "Kimi K3: Engineering the Open Frontier Intelligence Stack",
-    "summary": "Kimi K3 establishes a new benchmark for open-weight frontier AI by unifying frontier-scale reasoning, autonomous agent execution, long-context intelligence, and enterprise-grade software engineering within a single Mixture-of-Experts architecture. Trained at trillion-parameter scale with reinforcement learning and advanced architectural innovations—including Kimi Delta Attention, Attention Residuals, Stable LatentMoE, and MuonClip optimization—it demonstrates that open-weight models can increasingly compete with proprietary frontier systems. Beyond model performance, Kimi K3 represents a strategic shift toward open, production-ready AI infrastructure capable of powering enterprise AI platforms, autonomous agents, knowledge systems, coding assistants, and next-generation intelligent applications at global scale.",
-    "category": "Open-Weight Frontier AI + Agentic AI + Enterprise AI Infrastructure + Long-Context Reasoning + Reinforcement Learning + AI Systems Engineering",
-    "link": "https://www.kimi.com/blog/kimi-k3",
-    "github": "https://github.com/MoonshotAI/Kimi-K3"
+    "title": "Pandora: Routing Intelligence by Value",
+    "summary": "Pandora explores how AI systems can learn when additional computation is worth its cost. Instead of applying the same reasoning depth to every problem, value-aware routing seeks to allocate deeper computation selectively based on expected benefit. This reframes inference-time scaling as a routing problem that connects reasoning quality, computational cost, task difficulty, and economic value.",
+    "category": "Inference-Time Scaling + Value-Aware Routing + Adaptive Computation + Reasoning Systems + AI Economics + Compute Allocation + Intelligent Routing",
+    "link": "https://arxiv.org/pdf/2608.20316"
   },
   {
-    "title": "Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify",
-    "summary": "Spotify introduces GLIDE, a production-scale generative recommender that reframes podcast discovery as an instruction-following task over a semantically grounded catalog. By representing podcast episodes with compact Semantic IDs, combining recent listening context with long-term user preferences through soft prompts, and conditioning generation on explicit discovery objectives, GLIDE enables controllable, personalized retrieval at scale. Large-scale online experiments demonstrate gains in non-habitual podcast streaming and new-show discovery, positioning generative retrieval as a practical architecture for next-generation recommendation systems.",
-    "category": "Generative Retrieval + Semantic IDs + LLM-based Recommendation + Personalized Discovery + Catalog Grounding + Controllable Recommendation + Production AI Systems + Recommender Infrastructure",
-    "link": "https://arxiv.org/html/2603.17540"
+    "title": "The Strategy Gap in AI Post-Training",
+    "summary": "This work highlights the distinction between optimizing an existing strategy and recognizing when the strategy itself should change. Agents can become increasingly effective at improving individual steps within a predefined path while remaining unable to reconsider the broader approach. The resulting strategy gap suggests that post-training must address not only local execution quality but also higher-level strategic adaptation and path re-evaluation.",
+    "category": "AI Post-Training + Agent Strategy + Strategic Reasoning + Agent Optimization + Planning + Adaptive Agents + Agentic AI",
+    "link": "https://arxiv.org/pdf/2608.19072"
   },
   {
-    "title": "SkillSmith: Learning to Compose Parametric Skills and Textual Knowledge",
-    "summary": "SkillSmith introduces a new paradigm for agentic skill composition by treating model weights as an additional modality that an LLM can reason over alongside textual knowledge. Rather than keeping textual experience and parametric skills as separate adaptation mechanisms, SkillSmith jointly processes textual task knowledge and prefix-weight skills to synthesize new task-specific parametric capabilities. This reframes skill composition from shallow weight merging toward instruction-steered synthesis, enabling agents to combine learned behaviors and textual relationships for novel tasks. The deeper implication is a more holistic agent architecture in which knowledge, skills, and model parameters become composable forms of intelligence.",
-    "category": "Parametric Skills + Textual Knowledge + Skill Composition + Weight-Space Reasoning + Agentic AI + Prefix Tuning + Compositional Generalization + Adaptive AI",
-    "link": "https://arxiv.org/pdf/2607.27497"
+    "title": "Agentic AI Breaks LLM Serving",
+    "summary": "Agentic workloads challenge conventional LLM-serving architectures because agents generate irregular, stateful, multi-step workloads rather than predictable streams of independent requests. This work argues that AI infrastructure must evolve beyond optimizing token throughput toward serving complete agent execution workloads, introducing new requirements around scheduling, orchestration, state management, tool use, latency, and resource allocation.",
+    "category": "Agentic AI + LLM Serving + AI Infrastructure + Workload Serving + Inference Systems + Scheduling + Agent Execution",
+    "link": "https://arxiv.org/pdf/2608.15127"
   },
   {
-    "title": "Metis: Memory Foundation Model",
-    "summary": "Metis introduces a new paradigm for AI agent memory by moving memory from an external retrieval module into the foundation model itself. Its architecture establishes a native memory state that persistently evolves across interactions, while native memory procedures allow the model to autonomously remember, forget, update, and utilize information through its own forward computation. This reframes agent memory from an externally orchestrated capability into a model-native intelligence layer, creating a path toward more integrated, efficient, and end-to-end optimizable memory for long-running AI agents.",
-    "category": "Memory Foundation Models + Native AI Memory + Stateful Agents + Persistent Memory + Agentic AI + Memory Architecture + Long-Horizon Intelligence + Model-Native Capabilities",
-    "link": "https://arxiv.org/pdf/2607.26760",
-    "github": "https://github.com/MemTensor/Metis",
-    "model": "https://huggingface.co/collections/IAAR-Shanghai/metis"
+    "title": "From Glucose Signals to Metabolic Intelligence",
+    "summary": "GlucoFM explores how foundation-model approaches can transform continuous glucose measurements into representations of metabolic state across multiple timescales. Rather than treating glucose values as isolated measurements, the approach learns temporal patterns that capture broader metabolic dynamics, illustrating how foundation models can move physiological AI from signal prediction toward richer representations of biological state.",
+    "category": "Foundation Models + Glucose Modeling + Metabolic Intelligence + Time-Series AI + Health AI + Representation Learning + Physiological Signals",
+    "link": "https://arxiv.org/pdf/2605.30865"
   },
   {
-    "title": "The Regression Tax: Decomposing Why Skills Help — and Hurt — LLM Agents",
-    "summary": "This research reveals a critical tension in skill-augmented agentic AI: procedural skills can improve task success while simultaneously breaking tasks that agents could previously solve. Across 5,832 task-condition runs spanning two office-automation benchmarks and three model–harness stacks, the study identifies a substantial regression tax, showing that 324 regression transitions offset 59% of 553 gross gain transitions. It decomposes these regressions into three mechanisms—skill-description osmosis, grounding displacement, and verification displacement—revealing that reliability depends not only on what skills teach agents to do, but also on how those skills reshape grounding and verification behavior. The deeper implication is strategic: effective agent skills must optimize for net reliability, not gross capability.",
-    "category": "Agentic AI + Skill-Augmented Agents + Regression Tax + Grounding + Verification + Agent Reliability + Procedural Skills + LLM Evaluation",
-    "link": "https://arxiv.org/pdf/2607.22520"
+    "title": "The Re-Query Tax: What Context Compression Hides in Agent Performance",
+    "summary": "This work examines how context compression can reduce visible context size without necessarily improving overall agent efficiency. When important information is lost, agents may compensate through additional retrieval, repeated questioning, or interaction loops. The resulting re-query tax can increase interaction cost even when task-completion rates remain relatively stable, revealing why token-level efficiency metrics alone can hide important dimensions of agent performance.",
+    "category": "Context Compression + Agent Performance + Re-Query Cost + Interaction Efficiency + Long Context + Agentic AI + Inference Economics",
+    "link": "https://www.alphaxiv.org/pdf/2608.16370"
   },
   {
-    "title": "GPT-Red: Engineering the Autonomous Security Intelligence Layer for Frontier AI",
-    "summary": "GPT-Red introduces an autonomous adversarial intelligence framework that transforms AI security from periodic human-led red teaming into a continuously self-improving capability. Trained through large-scale self-play reinforcement learning, it autonomously discovers sophisticated vulnerabilities, generates high-value adversarial attacks, and strengthens frontier foundation models throughout the development lifecycle, establishing AI-native security as a core engineering discipline.",
-    "category": "AI Security + AI Safety + Red Teaming + Frontier AI + Reinforcement Learning",
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red/"
+    "title": "The Capability Gap in Agent Evaluation",
+    "summary": "This work examines the difference between an agent possessing a capability and that capability actually contributing to runtime performance. By focusing on what agent skills truly add during execution rather than assuming that available capabilities automatically improve outcomes, the research exposes a gap between nominal capability and realized capability and provides a stronger lens for evaluating practical agent performance.",
+    "category": "Agent Evaluation + Agent Skills + Runtime Capability + Capability Measurement + Agentic Systems + Benchmarking + Execution Analysis",
+    "link": "https://arxiv.org/pdf/2608.20614"
   },
   {
-    "title": "MemoHarness: Agent Harnesses That Learn from Experience",
-    "summary": "MemoHarness presents an adaptive agent harness architecture that continuously improves agent performance by learning from prior execution experiences. Through experience-driven memory, dynamic context optimization, and harness-level adaptation, it enables AI agents to refine orchestration strategies over time without retraining the underlying foundation model, advancing production-grade autonomous agent systems.",
-    "category": "Agentic AI + Agent Harnesses + Context Engineering + AI Memory + Multi-Agent Systems",
-    "link": "https://arxiv.org/abs/2607.14159"
+    "title": "Jagged Judges: The Hidden Fragility of AI Judgment",
+    "summary": "Jagged Judges investigates the stability of AI judgment under repetition, challenge, and adaptive pressure. Rather than treating an evaluator's decision as a single reliable measurement, the work examines whether AI judgments remain consistent when decisions are revisited or evaluation conditions change, exposing epistemic instability as an important dimension of AI evaluation and trustworthy agent assessment.",
+    "category": "AI Evaluation + LLM Judges + Epistemic Stability + Judge Reliability + Adaptive Evaluation + Agent Evaluation + Trustworthy AI",
+    "link": "https://arxiv.org/pdf/2608.12645"
   }
 ]
