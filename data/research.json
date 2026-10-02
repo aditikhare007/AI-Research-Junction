@@ -1,56 +1,56 @@
 [
   {
-    "title": "Recirculation: Giving Transformers a Persistent State",
-    "summary": "Deep-to-shallow feedback gives a feedforward Transformer a lightweight persistent state by recirculating representations from deeper layers back into shallower computation. This approach effectively turns the model into a dynamical system without retraining its core weights, enabling information to persist and evolve across computation cycles while preserving the underlying pretrained model.",
-    "category": "Recirculation + Persistent State + Transformers + Deep-to-Shallow Feedback + Dynamical Systems + LLM Architecture + Efficient AI",
-    "link": "https://arxiv.org/pdf/2608.17981"
+    "title": "The Tokenization Imperative",
+    "summary": "From language encoding to AI infrastructure, modern tokenization shapes how language models represent, compress, and process information. The research examines tokenization as a foundational architectural choice influencing context utilization, computational efficiency, representation quality, and downstream model intelligence.",
+    "category": "Tokenization + Modern NLP + Language Models + Representation Learning + Subword Tokenization + Context Efficiency + Compute Efficiency + Model Intelligence + Language Representation + AI Infrastructure + LLMs",
+    "link": "https://www.alphaxiv.org/pdf/2609.tokenization-survey-modern-nlp"
   },
   {
-    "title": "The Reliability Gap: Why Agent Success Is Not Agent Reliability",
-    "summary": "ThinkingBox distinguishes between an agent finding one successful trajectory and reliably executing the correct state transition across repeated attempts. The framework evaluates whether agents can reproduce intended behavior consistently rather than treating isolated task success as sufficient evidence of reliability, highlighting repeatability, state correctness, and behavioral consistency as critical dimensions of production agent systems.",
-    "category": "Agent Reliability + Agent Evaluation + State Transitions + Repeatability + ThinkingBox + Production Agents + Robust Agentic AI",
-    "link": "https://arxiv.org/pdf/2608.19741"
+    "title": "Context Language Models",
+    "summary": "Context Language Models move AI beyond static context windows toward model-owned cognitive state, enabling models to govern, adapt, retain, rewrite, compact, and optimize their own working memory. The approach treats context as an active computational resource rather than passive input, supporting adaptive context management, long-horizon reasoning, multi-agent coordination, and more compute-efficient inference.",
+    "category": "Context Language Models + Model-Owned Context + Cognitive State + Working Memory + Context Management + Adaptive Context + Context Optimization + Long-Horizon Reasoning + Agent Memory + Multi-Agent Systems + Context Compression + Inference Efficiency + Compute-Efficient AI",
+    "link": "https://arxiv.org/pdf/2609.37725"
   },
   {
-    "title": "Pandora: Routing Intelligence by Value",
-    "summary": "Pandora explores how AI systems can learn when additional computation is worth its cost. Instead of applying the same reasoning depth to every problem, value-aware routing seeks to allocate deeper computation selectively based on expected benefit. This reframes inference-time scaling as a routing problem that connects reasoning quality, computational cost, task difficulty, and economic value.",
-    "category": "Inference-Time Scaling + Value-Aware Routing + Adaptive Computation + Reasoning Systems + AI Economics + Compute Allocation + Intelligent Routing",
-    "link": "https://arxiv.org/pdf/2608.20316"
+    "title": "Agensh: Designing the Operating Model for Autonomous AI",
+    "summary": "Agensh reframes multi-agent AI from centralized orchestration to self-organizing intelligence—enabling agents to discover and claim sub-tasks, coordinate through shared context, communicate through distributed state, verify results, and merge progress asynchronously. By scaling to 1,024 agents, the approach demonstrates how shared context, decentralized coordination, distributed decision-making, and emergent specialization can form an operating model for autonomous AI organizations.",
+    "category": "Agensh + Multi-Agent Systems + Self-Organizing AI + Agentic Organizations + Shared Context + Context Management + Decentralized Coordination + Distributed Decision-Making + Multi-Agent Collaboration + Emergent Specialization + Agent Orchestration + Organizational Intelligence + Agent Scaling + Autonomous AI",
+    "link": "https://arxiv.org/pdf/2609.26781"
   },
   {
-    "title": "The Strategy Gap in AI Post-Training",
-    "summary": "This work highlights the distinction between optimizing an existing strategy and recognizing when the strategy itself should change. Agents can become increasingly effective at improving individual steps within a predefined path while remaining unable to reconsider the broader approach. The resulting strategy gap suggests that post-training must address not only local execution quality but also higher-level strategic adaptation and path re-evaluation.",
-    "category": "AI Post-Training + Agent Strategy + Strategic Reasoning + Agent Optimization + Planning + Adaptive Agents + Agentic AI",
-    "link": "https://arxiv.org/pdf/2608.19072"
+    "title": "JEV-as-a-Judge: Confidence-Gated AI Evaluation",
+    "summary": "JEV reframes AI evaluation from universal LLM judging to selective intelligence—routing compute, cost, and reasoning based on evaluator confidence and uncertainty. The approach enables evaluation systems to reserve deeper reasoning for ambiguous or low-confidence cases while using lighter evaluation paths where confidence is sufficient, creating a more adaptive and compute-efficient evaluation architecture.",
+    "category": "JEV + AI Evaluation + Confidence-Gated Evaluation + LLM-as-a-Judge + Selective Intelligence + Adaptive Evaluation + Compute Allocation + Evaluation Efficiency + Reasoning Allocation + AI Evaluators",
+    "link": "https://arxiv.org/pdf/2609.26550"
   },
   {
-    "title": "Agentic AI Breaks LLM Serving",
-    "summary": "Agentic workloads challenge conventional LLM-serving architectures because agents generate irregular, stateful, multi-step workloads rather than predictable streams of independent requests. This work argues that AI infrastructure must evolve beyond optimizing token throughput toward serving complete agent execution workloads, introducing new requirements around scheduling, orchestration, state management, tool use, latency, and resource allocation.",
-    "category": "Agentic AI + LLM Serving + AI Infrastructure + Workload Serving + Inference Systems + Scheduling + Agent Execution",
-    "link": "https://arxiv.org/pdf/2608.15127"
+    "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+    "summary": "RRSI introduces a framework for recursively improving agent harnesses while controlling overfitting during self-improvement. Rather than optimizing an agent solely against its existing evaluation environment, RRSI regularizes recursive optimization to encourage improvements that transfer across tasks and conditions. The work positions the agent harness itself—not just the underlying model—as an object of continual optimization, creating a pathway toward more robust and transferable agent intelligence.",
+    "category": "RRSI + Recursive Self-Improvement + Agent Harnesses + Regularized Optimization + Transferable Agent Intelligence + Agent Optimization + Self-Improving Agents + Agent Evaluation + Harness Engineering + Long-Horizon Agents",
+    "link": "https://arxiv.org/pdf/2609.24972"
   },
   {
-    "title": "From Glucose Signals to Metabolic Intelligence",
-    "summary": "GlucoFM explores how foundation-model approaches can transform continuous glucose measurements into representations of metabolic state across multiple timescales. Rather than treating glucose values as isolated measurements, the approach learns temporal patterns that capture broader metabolic dynamics, illustrating how foundation models can move physiological AI from signal prediction toward richer representations of biological state.",
-    "category": "Foundation Models + Glucose Modeling + Metabolic Intelligence + Time-Series AI + Health AI + Representation Learning + Physiological Signals",
-    "link": "https://arxiv.org/pdf/2605.30865"
+    "title": "CORAL: An LLM-Native Harness for Production Recommender Systems",
+    "summary": "CORAL introduces an LLM-native harness for production recommender systems that reframes recommendation from a static pipeline into a closed-loop decision system. The framework uses LLM-driven agents to coordinate recommendation objectives, retrieval, ranking, reasoning, execution, and feedback, enabling systems to continuously adapt based on outcomes and evolving user context. This architecture shifts recommender design toward autonomous, feedback-driven decision loops where the LLM acts as an orchestration and control layer across the recommendation lifecycle.",
+    "category": "CORAL + LLM-Native Recommender Systems + Production Recommenders + Closed-Loop Decision Systems + Agentic Recommendation + LLM Agents + Feedback Loops + Recommendation Orchestration + Adaptive Decision Systems + Generative AI",
+    "link": "https://arxiv.org/pdf/2609.02730v1"
   },
   {
-    "title": "The Re-Query Tax: What Context Compression Hides in Agent Performance",
-    "summary": "This work examines how context compression can reduce visible context size without necessarily improving overall agent efficiency. When important information is lost, agents may compensate through additional retrieval, repeated questioning, or interaction loops. The resulting re-query tax can increase interaction cost even when task-completion rates remain relatively stable, revealing why token-level efficiency metrics alone can hide important dimensions of agent performance.",
-    "category": "Context Compression + Agent Performance + Re-Query Cost + Interaction Efficiency + Long Context + Agentic AI + Inference Economics",
-    "link": "https://www.alphaxiv.org/pdf/2608.16370"
+    "title": "The Control Layer",
+    "summary": "The Control Layer examines the emerging need for explicit control mechanisms in agentic AI systems, arguing that reliable agents require more than strong generation capabilities—they need structured governance over execution. The work focuses on controlling agent behavior across planning, tool use, state transitions, verification, and recovery, positioning the control layer as the architectural mechanism that constrains, coordinates, and supervises agent execution. This shifts the agentic AI frontier from generating actions toward governing how those actions are selected, executed, verified, and adapted over time.",
+    "category": "Control Layer + Agentic AI + Agent Governance + Execution Control + Agent Orchestration + Tool Use + State Transitions + Verification + Recovery + Reliable Agents + AI Systems Architecture",
+    "link": "https://arxiv.org/pdf/2608.28281"
   },
   {
-    "title": "The Capability Gap in Agent Evaluation",
-    "summary": "This work examines the difference between an agent possessing a capability and that capability actually contributing to runtime performance. By focusing on what agent skills truly add during execution rather than assuming that available capabilities automatically improve outcomes, the research exposes a gap between nominal capability and realized capability and provides a stronger lens for evaluating practical agent performance.",
-    "category": "Agent Evaluation + Agent Skills + Runtime Capability + Capability Measurement + Agentic Systems + Benchmarking + Execution Analysis",
-    "link": "https://arxiv.org/pdf/2608.20614"
+    "title": "AutoSaddler: Turning Agent Traces into Durable System Upgrades",
+    "summary": "AutoSaddler transforms agent execution traces into durable improvements to agent infrastructure by systematically diagnosing failures, generating structured patches, and validating whether proposed changes generalize beyond the original failure cases. Rather than treating traces as passive logs, the framework turns execution experience into an iterative engineering loop—identifying failure patterns, modifying system components, and evaluating whether those modifications improve future agent behavior. This reframes agent reliability as an evolving systems problem where execution traces become a source of continuous infrastructure improvement.",
+    "category": "AutoSaddler + Agent Traces + Failure Diagnosis + Structured Patching + Agent Evolution + Generalization + Agent Reliability + Continuous Improvement + Self-Improving Agents + Agent Infrastructure",
+    "link": "https://arxiv.org/pdf/2608.23041v1"
   },
   {
-    "title": "Jagged Judges: The Hidden Fragility of AI Judgment",
-    "summary": "Jagged Judges investigates the stability of AI judgment under repetition, challenge, and adaptive pressure. Rather than treating an evaluator's decision as a single reliable measurement, the work examines whether AI judgments remain consistent when decisions are revisited or evaluation conditions change, exposing epistemic instability as an important dimension of AI evaluation and trustworthy agent assessment.",
-    "category": "AI Evaluation + LLM Judges + Epistemic Stability + Judge Reliability + Adaptive Evaluation + Agent Evaluation + Trustworthy AI",
-    "link": "https://arxiv.org/pdf/2608.12645"
+    "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+    "summary": "Agensh explores how organizational intelligence can scale from individual agents to large populations of coordinated agents, studying the mechanisms required to manage collaboration, specialization, communication, and collective problem solving across up to 1,024 agents. The work shifts the focus from building a single capable agent toward designing multi-agent organizations in which intelligence emerges through structured coordination and distributed execution. This provides an architectural lens for scaling agentic systems from isolated reasoning units into large-scale computational organizations.",
+    "category": "Agensh + Multi-Agent Systems + Organizational Intelligence + 1,024 Agents + Agent Coordination + Distributed Intelligence + Agent Collaboration + Multi-Agent Orchestration + Collective Problem Solving + Agentic AI",
+    "link": "https://arxiv.org/pdf/2609.26781"
   }
 ]
