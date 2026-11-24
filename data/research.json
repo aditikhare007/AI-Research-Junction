@@ -1,15 +1,130 @@
+
 [
   {
-    "title": "The Tokenization Imperative",
-    "summary": "From language encoding to AI infrastructure, modern tokenization shapes how language models represent, compress, and process information. The research examines tokenization as a foundational architectural choice influencing context utilization, computational efficiency, representation quality, and downstream model intelligence.",
-    "category": "Tokenization + Modern NLP + Language Models + Representation Learning + Subword Tokenization + Context Efficiency + Compute Efficiency + Model Intelligence + Language Representation + AI Infrastructure + LLMs",
-    "link": "https://www.alphaxiv.org/pdf/2609.tokenization-survey-modern-nlp"
+    "title": "Engineering the Evolution of Agentic Intelligence",
+    "summary": "From fitness-driven optimization to execution-guided architectural evolution—leveraging successful and failed execution evidence to discover, recombine, and optimize high-performing AI agent designs.",
+    "category": "Agentic Intelligence + Agent Architecture Evolution + Execution-Guided Optimization + Fitness-Driven Optimization + Agent Design + Self-Improving AI + Evolutionary Optimization + Execution Feedback + Agent Harness Engineering",
+    "link": "https://arxiv.org/pdf/2611.23509"
+  },
+  {
+    "title": "Engineering Regression-Resistant Self-Improving AI",
+    "summary": "From unrestricted harness modification to regret-guided evolution—preserving mastered capabilities, controlling regressions, and enabling continual agent improvement without model-weight updates.",
+    "category": "Self-Improving AI + Regression-Resistant AI + Agent Harness Engineering + Regret-Guided Optimization + Continual Learning + Capability Preservation + Regression Control + Agent Evolution + Model-Free Optimization",
+    "link": "https://arxiv.org/pdf/2611.23476"
+  },
+  {
+    "title": "Engineering the Memory of Self-Improving AI",
+    "summary": "From isolated recursive optimization to continual improvement—preserving the rationale, evidence, and outcomes of agent-harness evolution across changing models and benchmarks.",
+    "category": "Self-Improving AI + Agent Memory + Harness Evolution + Recursive Optimization + Continual Improvement + Persistent Memory + Evolution History + Knowledge Retention + Agent Harness Engineering",
+    "link": "https://arxiv.org/pdf/2611.18856"
+  },
+  {
+    "title": "Can LLM Agents Organize Their Own Memory? From Context Retrieval to Self-Organizing Intelligence",
+    "summary": "Engineering persistent AI memory through agent-driven knowledge organization, runtime validation, and controlled access—transforming fragmented information into structured, reusable intelligence.",
+    "category": "Agentic Memory + LLM Agents + Self-Organizing Intelligence + Persistent Memory + Knowledge Organization + Context Retrieval + Runtime Validation + Memory Management + Controlled Access + Long-Horizon Reasoning",
+    "link": "https://arxiv.org/pdf/2611.11929v1"
+  },
+  {
+    "title": "AgentBaton: Engineering Intelligence Allocation in Agentic AI",
+    "summary": "From expensive model dependency to adaptive collaboration—orchestrating capability handoffs to maximize accuracy, execution efficiency, and inference economics.",
+    "category": "Agentic AI + Model Collaboration + Capability Routing + Agent Handoffs + Adaptive Orchestration + Intelligence Allocation + Multi-Agent Systems + Inference Economics + Execution Efficiency + Model Selection",
+    "link": "https://arxiv.org/pdf/2610.35959v1"
+  },
+  {
+    "title": "EMMA: Engineering Governed Evolution in Multi-Agent AI",
+    "summary": "From uncontrolled agent expansion to failure-driven intelligence—architecting systems that learn through precision, bounded adaptation, and reusable memory.",
+    "category": "Multi-Agent Systems + Agent Evolution + Governed AI + Failure-Driven Learning + Bounded Adaptation + Agent Memory + Multi-Agent Orchestration + Self-Improving AI + Adaptive Intelligence",
+    "link": "https://arxiv.org/pdf/2610.35966v1"
+  },
+  {
+    "title": "Retriever-Free Retrieval: Engineering Intelligence Beyond Search",
+    "summary": "From retrieving information to deciding what matters—rethinking document intelligence through learned retrieval decisions, adaptive reasoning, and more capable LLM systems.",
+    "category": "Retriever-Free Retrieval + Document Intelligence + Learned Retrieval Decisions + Adaptive Reasoning + Retrieval-Augmented Generation + LLM Architecture + Information Retrieval + Context Intelligence + Search Optimization",
+    "link": "https://arxiv.org/pdf/2610.35868"
+  },
+  {
+    "title": "The Delegation Gap: Engineering Trustworthy Agentic AI",
+    "summary": "From autonomous capability to governed execution—closing the gap between what enterprises delegate, what AI agents deliver, and what they can verify.",
+    "category": "Agentic AI + Enterprise AI Governance + AI Delegation + Trustworthy AI + Agent Reliability + Human-Agent Collaboration + Execution Verification + AI Accountability + Autonomous Systems + Enterprise Agentic AI",
+    "link": "https://arxiv.org/pdf/2610.34748"
+  },
+  {
+    "title": "HarnessMM: Engineering Self-Improving AI Execution",
+    "summary": "From redundant reasoning to guarded decision reuse—optimizing the economics of agentic intelligence through harness-level execution efficiency.",
+    "category": "Agent Harness Engineering + Self-Improving AI + Reasoning Optimization + Decision Reuse + Execution Efficiency + Token Efficiency + Agentic Systems + Inference Economics + Computational Efficiency",
+    "link": "https://arxiv.org/pdf/2610.32813v1"
+  },
+  {
+    "title": "Cache Engineering for Agents: Engineering Intelligence at the Inference Layer",
+    "summary": "From context compression to programmable memory—direct KV-cache control, history-aware serving, and self-optimizing agent efficiency.",
+    "category": "Agent Inference Optimization + KV Cache Engineering + Context Compression + Programmable Memory + History-Aware Serving + LLM Inference + Agent Memory + Context Management + Inference Efficiency + AI Systems Engineering",
+    "link": "https://arxiv.org/pdf/2610.28577v1"
+  },
+  {
+    "title": "Object-Oriented Harness: Engineering Self-Evolving Agent Systems",
+    "summary": "From monolithic execution to hierarchical intelligence—evidence-driven harness evolution, inheritance-based specialization, and adaptive execution routing.",
+    "category": "Object-Oriented Harness + Agent Harness Engineering + Self-Evolving AI + Hierarchical Agents + Inheritance-Based Specialization + Adaptive Execution Routing + Agent Architecture + Evidence-Driven Evolution + Modular AI Systems",
+    "link": "https://arxiv.org/pdf/2610.28380"
+  },
+  {
+    "title": "Evo²: Engineering Intelligence That Evolves",
+    "summary": "From independent model and agent optimization to weight-harness co-evolution—learning better edits, exploiting execution feedback, and compounding agent-system performance.",
+    "category": "Agent Evolution + Weight-Harness Co-Evolution + Self-Improving AI + Agent Harness Engineering + Execution Feedback + Model Optimization + Evolutionary AI + Autonomous Optimization + Agent Performance",
+    "link": "https://arxiv.org/pdf/2610.13025"
+  },
+  {
+    "title": "SearchJev: Engineering Intelligence for Agentic Search",
+    "summary": "From generative overhead to calibrated decision intelligence—selective reasoning, confidence-aware routing, and efficient inference.",
+    "category": "Agentic Search + Decision Intelligence + Selective Reasoning + Confidence-Aware Routing + Adaptive Inference + Search Optimization + Computational Efficiency + LLM Reasoning + Intelligent Routing",
+    "link": "https://arxiv.org/pdf/2610.05107"
+  },
+  {
+    "title": "GitSwarm: Engineering Intelligence That Compounds",
+    "summary": "From parallel agent execution to persistent collective intelligence—shared memory, cross-branch reasoning, and decentralized convergence.",
+    "category": "Multi-Agent Systems + Collective Intelligence + Shared Memory + Decentralized AI + Agent Collaboration + Cross-Branch Reasoning + Distributed Intelligence + Persistent Knowledge + Agent Orchestration",
+    "link": "https://arxiv.org/pdf/2610.04862"
+  },
+  {
+    "title": "DUET: Engineering Self-Improving Agent Systems",
+    "summary": "From independent solver and grader optimization to co-evolving intelligence—adaptive task selection, evidence-driven evaluation, and alternating policy refinement.",
+    "category": "Self-Improving AI + Solver-Grader Co-Evolution + Agent Evaluation + Adaptive Task Selection + Evidence-Driven Evaluation + Policy Optimization + Agent Training + Multi-Agent Systems + Autonomous Improvement",
+    "link": "https://arxiv.org/pdf/2610.04087"
+  },
+  {
+    "title": "IdeaScientist: Engineering Intelligence for Scientific Discovery",
+    "summary": "From isolated research agents to grounded scientific ideation—cross-domain knowledge transfer, specialized agent orchestration, and evidence-driven proposal synthesis.",
+    "category": "AI for Scientific Discovery + Scientific Ideation + Research Agents + Multi-Agent Orchestration + Cross-Domain Knowledge Transfer + Evidence-Driven Reasoning + Autonomous Research + Knowledge Synthesis + Agentic AI",
+    "link": "https://arxiv.org/pdf/2610.04074"
+  },
+  {
+    "title": "GLiDE: Engineering Intelligence for High-Stakes Decisions",
+    "summary": "From static classification to adaptive decision intelligence—routing reasoning, confidence, and compute where decisions demand it.",
+    "category": "Decision Intelligence + High-Stakes AI + Adaptive Classification + Thinking Decision Models + Confidence-Aware Decisions + Dynamic Reasoning + Compute Allocation + Intelligent Routing + Enterprise AI",
+    "link": "https://fastino.ai/blog/introducing-glide-the-first-thinking-decision-model"
+  },
+  {
+    "title": "AlphaProof Code: Verifying Signal’s Security at the Machine-Code Level",
+    "summary": "From AI-generated code to mathematically verified execution—engineering a new foundation for trustworthy, security-critical software.",
+    "category": "Formal Verification + AI Security + Machine-Code Verification + Software Security + Mathematical Proofs + Secure Software Engineering + Code Verification + Trustworthy AI + Critical Systems",
+    "link": "https://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf"
   },
   {
     "title": "Context Language Models",
     "summary": "Context Language Models move AI beyond static context windows toward model-owned cognitive state, enabling models to govern, adapt, retain, rewrite, compact, and optimize their own working memory. The approach treats context as an active computational resource rather than passive input, supporting adaptive context management, long-horizon reasoning, multi-agent coordination, and more compute-efficient inference.",
     "category": "Context Language Models + Model-Owned Context + Cognitive State + Working Memory + Context Management + Adaptive Context + Context Optimization + Long-Horizon Reasoning + Agent Memory + Multi-Agent Systems + Context Compression + Inference Efficiency + Compute-Efficient AI",
     "link": "https://arxiv.org/pdf/2609.37725"
+  },
+  {
+    "title": "Beyond Attention: Message Passing for Graph Intelligence",
+    "summary": "Scaling in-context learning through structural routing, representation compression, and efficient inference—exploring message passing as an alternative foundation for graph intelligence beyond conventional attention mechanisms.",
+    "category": "Graph Intelligence + Message Passing + Beyond Attention + In-Context Learning + Structural Routing + Representation Compression + Efficient Inference + Graph Neural Networks + Graph Reasoning + Scalable AI",
+    "link": "https://arxiv.org/pdf/2609.37057"
+  },
+  {
+    "title": "The Tokenization Imperative",
+    "summary": "From language encoding to AI infrastructure, modern tokenization shapes how language models represent, compress, and process information. The research examines tokenization as a foundational architectural choice influencing context utilization, computational efficiency, representation quality, and downstream model intelligence.",
+    "category": "Tokenization + Modern NLP + Language Models + Representation Learning + Subword Tokenization + Context Efficiency + Compute Efficiency + Model Intelligence + Language Representation + AI Infrastructure + LLMs",
+    "link": "https://www.alphaxiv.org/pdf/2609.tokenization-survey-modern-nlp"
   },
   {
     "title": "Agensh: Designing the Operating Model for Autonomous AI",
@@ -42,15 +157,15 @@
     "link": "https://arxiv.org/pdf/2608.28281"
   },
   {
-    "title": "AutoSaddler: Turning Agent Traces into Durable System Upgrades",
-    "summary": "AutoSaddler transforms agent execution traces into durable improvements to agent infrastructure by systematically diagnosing failures, generating structured patches, and validating whether proposed changes generalize beyond the original failure cases. Rather than treating traces as passive logs, the framework turns execution experience into an iterative engineering loop—identifying failure patterns, modifying system components, and evaluating whether those modifications improve future agent behavior. This reframes agent reliability as an evolving systems problem where execution traces become a source of continuous infrastructure improvement.",
-    "category": "AutoSaddler + Agent Traces + Failure Diagnosis + Structured Patching + Agent Evolution + Generalization + Agent Reliability + Continuous Improvement + Self-Improving Agents + Agent Infrastructure",
-    "link": "https://arxiv.org/pdf/2608.23041v1"
-  },
-  {
     "title": "Prime Agent: The Runtime That Turns LLMs Into Long-Horizon Agents",
     "summary": "Prime Agent is an open-source runtime for long-horizon AI agents that combines persistent execution, recursive subagents, programmatic computation, retained histories, memories, and reusable skills. Its architecture separates information management from computation management, allowing agents to preserve and refine state across extended trajectories while dynamically allocating test-time compute. The runtime also introduces recovery, verification, resource accounting, and continual refinement—shifting agent design from short-lived tool execution toward persistent, self-improving execution systems.",
     "category": "Prime Agent + Long-Horizon Agents + RLM Harness + Persistent State + Recursive Orchestration + Continual Learning + Agent Runtime + Test-Time Compute + Multi-Agent Systems + Self-Improving Agents",
     "link": "https://arxiv.org/pdf/2608.23552"
+  },
+  {
+    "title": "AutoSaddler: Turning Agent Traces into Durable System Upgrades",
+    "summary": "AutoSaddler transforms agent execution traces into durable improvements to agent infrastructure by systematically diagnosing failures, generating structured patches, and validating whether proposed changes generalize beyond the original failure cases. Rather than treating traces as passive logs, the framework turns execution experience into an iterative engineering loop—identifying failure patterns, modifying system components, and evaluating whether those modifications improve future agent behavior. This reframes agent reliability as an evolving systems problem where execution traces become a source of continuous infrastructure improvement.",
+    "category": "AutoSaddler + Agent Traces + Failure Diagnosis + Structured Patching + Agent Evolution + Generalization + Agent Reliability + Continuous Improvement + Self-Improving Agents + Agent Infrastructure",
+    "link": "https://arxiv.org/pdf/2608.23041v1"
   }
 ]
